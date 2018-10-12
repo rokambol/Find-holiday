@@ -16,6 +16,7 @@ var map;
         });
     }
     
+    
  /*function newLocation() to use in next fuction block for ne map center */
  function newLocation(newLat,newLng)
 {
@@ -31,7 +32,7 @@ $(document).ready(function() {
  var value =  $('#inlineFormCustomSelect').val();
   
   if (value == 1) {
-       newLocation(49.020956,-103.076235);
+       newLocation(49.020956,-103.076235),listNY();
 } else if (value == 2) {
      newLocation(-13.777778, -57.812563);
 } else if (value == 3) {
@@ -46,5 +47,20 @@ $(document).ready(function() {
     newLocation(-83.382304, 48.454375);
 }
 });
-});
+
  
+ function listNY() {
+    var newItem = document.createElement('li');
+    var textnode = document.createTextNode("New York");
+    newItem.appendChild(textnode);
+
+    var list = document.getElementById("list1");
+    list.insertBefore(newItem, list.childNodes[0]);
+    for( i = 0; i < 5; i = i + 1 ) {
+        
+    var li = document.createElement( 'li' );               // create a new li element
+    list1.appendChild( li );                           // every time append a new item
+  }
+}
+    
+});
