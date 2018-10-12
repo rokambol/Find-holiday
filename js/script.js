@@ -8,6 +8,8 @@
   asia: '41.763633,-72.682662'
 };   */ 
 var map;
+
+
 /*initial load default map center when page is loaded */
       function initMap() {
         map = new google.maps.Map(document.getElementById('map'), {
@@ -32,7 +34,7 @@ $(document).ready(function() {
  var value =  $('#inlineFormCustomSelect').val();
   
   if (value == 1) {
-       newLocation(49.020956,-103.076235),listNY();
+       newLocation(49.020956,-103.076235),listNY(),listT(),listCity();
 } else if (value == 2) {
      newLocation(-13.777778, -57.812563);
 } else if (value == 3) {
@@ -56,11 +58,36 @@ $(document).ready(function() {
 
     var list = document.getElementById("list1");
     list.insertBefore(newItem, list.childNodes[0]);
-    for( i = 0; i < 5; i = i + 1 ) {
-        
+   for( i = 0; i < 1; i = i + 1 ){
     var li = document.createElement( 'li' );               // create a new li element
+    li.textContent = "Vancouver " + (i+1);                                                  // .textContent is mush shorter than creating a textNode
     list1.appendChild( li );                           // every time append a new item
   }
 }
-    
+function listT() {
+    var newItem = document.createElement('li');
+    var textnode = document.createTextNode("Washington");
+    newItem.appendChild(textnode);
+
+    var list = document.getElementById("list1");
+    list.insertBefore(newItem, list.childNodes[0]);
+    for( i = 1; i < 2; i = i + 1 ){
+    var li = document.createElement( 'li' );               // create a new li element
+    li.textContent = "Tenessi " + (i+1);                                                  // .textContent is mush shorter than creating a textNode
+    list1.appendChild( li );                           // every time append a new item
+  }
+}   
+function listCity() {
+    var newItem = document.createElement('li');
+    var textnode = document.createTextNode("Las Vegas");
+    newItem.appendChild(textnode);
+
+    var list = document.getElementById("list1");
+    list.insertBefore(newItem, list.childNodes[0]);
+    for( i = 1; i < 2; i = i + 1 ){
+    var li = document.createElement( 'li' );               // create a new li element
+    li.textContent = "Quebec" + (i+1);                                                  // .textContent is mush shorter than creating a textNode
+    list1.appendChild( li );                           // every time append a new item
+  }
+}   
 });
