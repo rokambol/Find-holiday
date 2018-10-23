@@ -45,9 +45,9 @@ body {
 /*styling opdering list items*/
 #listMenu {
     text-align: left;
-    font-size: 1rem;
+    font-size: 1.3rem;
     font-weight: 400;
-    line-height: 2;
+    line-height: 1;
     
 }
 

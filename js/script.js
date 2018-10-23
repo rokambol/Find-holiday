@@ -166,12 +166,16 @@ var  map = new google.maps.Map(document.getElementById('map'));
       function initMap() {
         map = new google.maps.Map(document.getElementById('map'), {
           center: {lat: 23.658426, lng: -31.762902},
-          zoom: 2
+          zoom: 1
         });
         
         // JQuery function help code below to execute after page is loaded 
 $(document).ready(function() {
-    
+    $.getJSON( "data/locations.json", function( data ) {
+        var d = JSON.parse(data);
+        console.log(d.locations);
+        locations=d.locations;
+    });
        // set marker on the Map 
    function markerSet () {
         var infowindow = new google.maps.InfoWindow();
