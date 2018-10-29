@@ -18,6 +18,38 @@
       43.697069,
       -79.383891,
       3
-    ]
+    ],
+     [
+    'Monreal',
+     45.605755,
+     -73.538326,
+     4
+     ],
+      [
+        'Quebec City',
+        46.867889,
+        -71.226519,
+        5
+        ],
+      [
+        'Vancouver',
+        49.384010,
+        -123.156729,
+        6
+    ],
   ]
+}
+
+
+{
+"picCity":
+[
+["<div style=\"float:left\"><img src=\"images /City /N.ACITY /Monreal.jpg\"></div><div style=\"float:right; padding: 10px;\"><b>Monreal</b><br/>123 Address<br/> City,Country</div>"],
+["<div style=\"float:left\"><img src=\"images /City /N.ACITY /New_York.jpg\"></div><div style=\"float:right; padding: 10px;\"><b>New York</b><br/>123 Address<br/> City,Country</div>"],
+["<div style=\"float:left\"><img src=\"images /City /N.ACITY /QuebecCity.jpg\"></div><div style=\"float:right; padding: 10px;\"><b>Quebec City</b><br/>123 Address<br/> City,Country</div>"],
+["<div style=\"float:left\"><img src=\"images /City /N.ACITY /Toronto.jpg\"></div><div style=\"float:right; padding: 10px;\"><b>Toronto</b><br/>123 Address<br/> City,Country</div>"],
+["<div style=\"float:left\"><img src=\"images /City /N.ACITY /Vancouver.jpg\"></div><div style=\"float:right; padding: 10px;\"><b>Vancouver</b><br/>123 Address<br/> City,Country</div>"],
+["<div style=\"float:left\"><img src=\"images /City /N.ACITY /Washington DC.jpg\"></div><div style=\"float:right; padding: 10px;\"><b>Washington DC</b><br/>123 Address<br/>City,Country</div>"]
+]
+
 }

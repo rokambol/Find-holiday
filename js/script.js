@@ -159,6 +159,154 @@ var locations = [
       ['Nadi', -17.757309, 177.445846,36]
     ];
     
+var picCity =[
+["<div class= 'pic'><img src= 'images/City/N.ACITY/Washington DC.jpg'></div><div class= 'text'><b>Washington DC</b><br/>Country: USA<br/> Population: 9,693,972</div>"],
+["<div class= 'pic'><img src= 'images/City/N.ACITY/New_York.jpg'></div><div class= 'text'><b>New York</b><br/>Country: USA<br/> Population: 8.623 million</div>"],
+["<div class= 'pic'><img src= 'images/City/N.ACITY/Toronto.jpg'></div><div class= 'text'><b>Toronto</b><br/>Country: Canada<br/> Population: 2.732 million</div>"],
+["<div class= 'pic'><img src= 'images/City/N.ACITY/Monreal.jpg'></div><div class= 'text'><b>Monreal</b><br/>Country: Canada<br/> Population:  1.705 million</div>"],
+["<div class= 'pic'><img src= 'images/City/N.ACITY/QuebecCity.jpg'></div><div class= 'text'><b>QuebecCity</b><br/>Country: Canada<br/> Population: 531,900</div>"],
+["<div class= 'pic'><img src= 'images/City/N.ACITY/Vancouver.jpg'></div><div class= 'text'><b>Vancouver</b><br/>Country: Canada<br/> Population: 631,490</div>"],
+["<div class= 'pic'><img src= 'images/City/S.ACit/RioDeJenairo.jpg'></div><div class= 'text'><b>Rio De Jenairo</b><br/>Country: Brazil<br/> Population: 6.32 million</div>"],
+["<div class= 'pic'><img src= 'images/City/S.ACit/BuenosAires.jpg'></div><div class= 'text'><b>Buenos Aires</b><br/>Country: Argentina<br/> Population: 2.89 million</div>"],
+["<div class= 'pic'><img src= 'images/City/S.ACit/Montevideo.jpg'></div><div class= 'text'><b>Montevideo</b><br/>Country: Uruguay<br/> Population: 1.381 million</div>"],
+["<div class= 'pic'><img src= 'images/City/S.ACit/F.Islands.jpg'></div><div class= 'text'><b>Falkland Islands</b><br/>Country: Falkland Islands(UK)<br/> Population: 3,398 </div>"],
+["<div class= 'pic'><img src= 'images/City/S.ACit/RioGrande.jpg'></div><div class= 'text'><b>Rio Grande</b><br/>Country: Brazil<br/> Population: 198,048</div>"],
+["<div class= 'pic'><img src= 'images/City/S.ACit/Santiago.jpg'></div><div class= 'text'><b>Santiago</b><br/>Country: Chile<br/> Population: 5.614 million</div>"],
+["<div class= 'pic'><img src= 'images/City/Europa/London.jpg'></div><div class= 'text'><b>London</b><br/>Country: United Kingdom<br/> Population: 8.136 million</div>"],
+["<div class= 'pic'><img src= 'images/City/Europa/Paris.jpg'></div><div class= 'text'><b>Paris</b><br/>Country: France<br/> Population:  2.2 million</div>"],
+["<div class= 'pic'><img src= 'images/City/Europa/Copenhagen.jpg'></div><div class= 'text'><b>Copenhagen</b><br/>Country: Denmark<br/> Population:  602,481</div>"],
+["<div class= 'pic'><img src= 'images/City/Europa/Moscow.jpg'></div><div class= 'text'><b>Moscow</b><br/>Country: Russia<br/> Population: 13.2 million</div>"],
+["<div class= 'pic'><img src= 'images/City/Europa/Rome.jpg'></div><div class= 'text'><b>Rome</b><br/>Country: Italy<br/> Population: 2.873 million</div>"],
+["<div class= 'pic'><img src= 'images/City/Europa/Athens.jpg'></div><div class= 'text'><b>Athens</b><br/>Country: Greece<br/> Population: 664,046</div>"],
+["<div class= 'pic'><img src= 'images/City/Africa/Casablanca.jpg'></div><div class= 'text'><b>Casablanka</b><br/>Country: Morocco<br/> Population: 3.36 million</div>"],
+["<div class= 'pic'><img src= 'images/City/Africa/Cairo.jpg'></div><div class= 'text'><b>Cairo</b><br/>Country: Egypt<br/> Population: 9.153 million</div>"],
+["<div class= 'pic'><img src= 'images/City/Africa/Lagos.jpg'></div><div class= 'text'><b>Lagos</b><br/>Country: Nigeria<br/> Population: 8,048,430</div>"],
+["<div class= 'pic'><img src= 'images/City/Africa/Johannesburg.jpg'></div><div class= 'text'><b>Johannesburg</b><br/>Country: South Africa<br/> Population: 957,441</div>"],
+["<div class= 'pic'><img src= 'images/City/Africa/CapeTown.jpg'></div><div class= 'text'><b>Cape Town</b><br/>Country: South Africa<br/> Population: 433,688</div>"],
+["<div class= 'pic'><img src= 'images/City/Africa/Entebbe.jpg'></div><div class= 'text'><b>Entebbe</b><br/>Country: Uganda<br/> Population: 69,958</div>"],
+["<div class= 'pic'><img src= 'images/City/Asia/Dubai.jpg'></div><div class= 'text'><b>Dubai</b><br/>Country: OAE<br/> Population: 3.137 million</div>"],
+["<div class= 'pic'><img src= 'images/City/Asia/Mumbai.jpg'></div><div class= 'text'><b>Mumbai</b><br/>Country: India<br/> Population: 18.41 million</div>"],
+["<div class= 'pic'><img src= 'images/City/Asia/Colombo.jpg'></div><div class= 'text'><b>Colombo</b><br/>Country: Shri Lanka<br/> Population: 752,993</div>"],
+["<div class= 'pic'><img src= 'images/City/Asia/KualaLumpur.jpg'></div><div class= 'text'><b>Kuala Lumpur</b><br/>Country: Malaysia<br/> Population: 1.589 million</div>"],
+["<div class= 'pic'><img src= 'images/City/Asia/HongKong.jpg'></div><div class= 'text'><b>Hong Kong</b><br/>Country: China<br/> Population: 7.392 million</div>"],
+["<div class= 'pic'><img src= 'images/City/Asia/Tokyo.jpg'></div><div class= 'text'><b>Tokyo</b><br/>Country: Japan<br/> Population: 9.273 million</div>"],
+["<div class= 'pic'><img src= 'images/City/A and NZ/PERTH.jpg'></div><div class= 'text'><b>Perth</b><br/>Country: Australia<br/> Population: 1.945 million</div>"],
+["<div class= 'pic'><img src= 'images/City/A and NZ/Melbourne.jpg'></div><div class= 'text'><b>Melbourne</b><br/>Country: Australia <br/> Population: 4.44 million</div>"],
+["<div class= 'pic'><img src= 'images/City/A and NZ/Sydney.jpg'></div><div class= 'text'><b>Sydney</b><br/>Country: Australia<br/> Population: 4.841 million</div>"],
+["<div class= 'pic'><img src= 'images/City/A and NZ/Queenstown.jpg'></div><div class= 'text'><b>Queenstown</b><br/>Country: New Zealand<br/> Population: 28,224</div>"],
+["<div class= 'pic'><img src= 'images/City/A and NZ/Auckland.jpg'></div><div class= 'text'><b>Auckland</b><br/>Country: New Zealand<br/> Population: 1.614 million</div>"],
+["<div class= 'pic'><img src= 'images/City/A and NZ/Nadi.jpg'></div><div class= 'text'><b>Nadi</b><br/>Country: Fiji<br/> Population: 42,284</div>"]
+]; 
+
+var abv = [
+    [' https://www.spymuseum.org/','Address: 800 F St NW, Washington, DC 20004, USA']
+    ['https://www.madametussauds.com/washington-dc/en/','Address: 1001 F St NW, Washington, DC 20004, USA Phone: +1 202-942-7300']
+    ['https://www.mountvernon.org/','Address: 3200 Mount Vernon Hwy, Mt Vernon, VA 22121, USA'],
+    ['https://www.nationalgeographic.org','Address: 1145 17th St NW, Washington, DC 20036, USA']
+    ['http://www.newseum.org/','Address: 555 Pennsylvania Ave NW, Washington, DC 20001, USA']
+    ['https://oneworldobservatory.com/en-US','Address: 285 Fulton St, New York, NY 10006, USA']
+    ['http://www.esbnyc.com/','Address: 20 W 34th St, New York, NY 10001, USA']
+    ['https://www.911memorial.org/','Address: 180 Greenwich St, New York, NY 10007, USA']
+    ['https://www.topoftherocknyc.com/','Address: 30 Rockefeller Plaza, New York, NY 10112, USA']
+    ['https://www.saintpatrickscathedral.org/', 'Address: 5th Ave, New York, NY 10022, USA']
+    ['http://www.edgewalkcntower.ca/','Address: 290 Bremner Blvd, Toronto, ON M5V 3M9, Canada']
+    ['http://www.casaloma.ca/','Address: 1 Austin Terrace, Toronto, ON M5R 1X8, Canada']
+    ['https://www.ripleyaquariums.com/canada/','Address: 288 Bremner Blvd, Toronto, ON M5V 3L9, Canada']
+    ['https://www.cntower.ca/intro.html','Address: 301 Front St W, Toronto, ON M5V 2T6, Canada']
+    ['http://www.torontozoo.com/','Address: 2000 Meadowvale Rd, Toronto, ON M1B 5K7, Canada']
+    ['https://pacmusee.qc.ca/en/','Address: 350 Place Royale, Montreal, QC H2Y 3Y5, Canada']
+    ['https://www.basiliquenotredame.ca/en/','Address: 110 Notre-Dame St W, Montreal, QC H2Y 1T2, Canada']
+    ['http://m.espacepourlavie.ca/en/botanical-garden','Address: 4101 Rue Sherbrooke E, Montréal, QC H1X 2B2, Canada']
+    ['http://www.parcjeandrapeau.com/','Address: 1 Circuit Gilles Villeneuve, Montréal, QC H3C 1A9, Canada']
+    ['https://www.saint-joseph.org/fr/','Address: 3800 Queen Mary Rd, Montreal, QC H3V 1H6, Canada']
+    ['http://www.complexelegendre.com','Address: 1650 Avenue Jules-Verne, Québec, QC G2G 2R1, Canada']
+    ['https://www.ville.quebec.qc.ca','Address: Rue des Carrières, Québec, QC G1R 5J5, Canada']
+    ['https://www.quartierpetitchamplain.com/','Address: 61 Rue du Petit Champlain, Québec, QC G1K 4H5, Canada']
+    ['http://www.lacitadelle.qc.ca/fr/','Address: 1 Côte de la Citadelle, Québec, QC G1R 3R2, Canada']
+    ['https://www.capitale.gouv.qc.ca','Address: 29 Rue Notre Dame, Québec, QC G1K 4E9, Canada']
+    ['https://scienceworld.ca/','Address: 1455 Quebec St, Vancouver, BC V6A 3Z7, Canada']
+    ['https://www.flyovercanada.com/','Address: 201 - 999 Canada Place, Canada, Vancouver, BC V6C 3E1, Canada']
+    ['http://vandusengarden.org/','Address: 5251 Oak St, Vancouver, BC V6M 4H1, Canada']
+    ['https://www.tourismvancouver.com','Address: Vancouver, BC V6G 3E2, Canada']
+    ['http://vancouverlookout.com/','Address: 555 W Hastings St, Vancouver, BC V6B 4N6, Canada']
+    ['https://cristoredentoroficial.com.br/','Address: Parque Nacional da Tijuca - Alto da Boa Vista, Rio de Janeiro - RJ, Brazil']
+    ['Copacabana','Address: rio de Jenairo, Brazil']
+    ['Rio de Janeiro, Brazil']
+    ['http://www.jbrj.gov.br/','Address: R. Jardim Botânico, 1008 - Jardim Botânico, Rio de Janeiro - RJ, 22460-030, Brazil']
+    ['https://turismo.buenosaires.gob.ar/es/atractivo/plaza-dorrego','Address: C1103 Buenos Aires, Argentina']
+    ['https://jardinjapones.org.ar/','Address: Av. Casares 2966, C1425 CABA, Argentina']
+    ['http://www.buenosaires.gob.ar/ciudadverde/espaciosverdes/reservaecologica','Address: Buenos Aires, Buenos Aires Province']
+    ['https://www.tangoshowbuenosaires.com','Address: Av. de Mayo 801, C1000WAM CABA, Argentina']
+    ['https://palaciobarolo.com.ar/','Address: Av. de Mayo 1370, C1085 CABA, Argentina']
+    ['']
+    ['']
+    ['']
+    ['']
+    ['']
+    ['']
+    ['']
+    ['']
+    
+    ];    
+    
+var AttrLocation = [
+    [38.897058, -77.023660],
+    [38.897926, -77.026243],
+    [38.708242, -77.086175],
+    [38.905337, -77.037974],
+    [38.893273, -77.019306],
+    [40.713499, -74.013368],
+    [40.748603, -73.985675],
+    [40.712239, -74.013561],
+    [40.759255, -73.979565],
+    [40.758620, -73.975993],
+    [43.642880, -79.387302],
+    [43.678216, -79.409498],
+    [43.642566, -79.386003],
+    [43.642729, -79.387100],
+    [43.817862, -79.185923],
+    [45.502839, -73.554178],
+    [45.504668, -73.556131],
+    [45.560047, -73.563138],
+    [45.517261, -73.533612],
+    [45.492724, -73.618339],
+    [46.778213, -71.356542],
+    [46.812154, -71.204361],
+    [46.811597, -71.203610],
+    [46.807954, -71.206909],
+    [46.813524, -71.203149],
+    [49.273537, -123.103823],
+    [49.289072, -123.110877],
+    [49.239207, -123.128583],
+    [49.296096, -123.119659],
+    [49.284837, -123.112244],
+    [-22.726168, -43.240565],
+    [-22.972954, -43.185498],
+    [-22.987370, -43.198541],
+    [-22.948231, -43.154704],
+    [-22.967224, -43.225060],
+    [-34.620343, -58.371756],
+    [-34.576106, -58.409664],
+    [-34.608124, -58.351061],
+    [-34.608495, -58.378018],
+    [-34.609406, -58.385843],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    ];   
+    
+    
+  //var ab = $.getJSON( "data/locations.json", function( data ) {
+       // console.log(data);
+      // });
+       
 // global map variables so it can be used to manipolate zoom level
 var  map = new google.maps.Map(document.getElementById('map'));
  
@@ -166,16 +314,12 @@ var  map = new google.maps.Map(document.getElementById('map'));
       function initMap() {
         map = new google.maps.Map(document.getElementById('map'), {
           center: {lat: 23.658426, lng: -31.762902},
-          zoom: 1
+          zoom: 2
         });
         
         // JQuery function help code below to execute after page is loaded 
 $(document).ready(function() {
-    $.getJSON( "data/locations.json", function( data ) {
-        var d = JSON.parse(data);
-        console.log(d.locations);
-        locations=d.locations;
-    });
+
        // set marker on the Map 
    function markerSet () {
         var infowindow = new google.maps.InfoWindow();
@@ -187,13 +331,21 @@ $(document).ready(function() {
       });
       google.maps.event.addListener(marker, 'click', (function(marker, i) {
         return function() {
-          infowindow.setContent(locations[i][0]);
+          infowindow.setContent(picCity[i][0]);
+          $('#subMenu1').val();
+          if (value == 1) {
+              
+          }
+         
           infowindow.open(map, marker);
         };
       })
       (marker, i));
     }
     }
+    function clearMarkers() {
+       markerSet(null);
+  }
     
  /*function newLocation() to use in next fuction block for new map center */
  function newLocation(newLat,newLng)
@@ -232,7 +384,8 @@ $('#inlineFormCustomSelect').on('change', function() {
  
  // #inlineFormCustomSelect value ==1
   if (value == 1) {
-       newLocation(49.020956,-103.076235), 
+       newLocation(49.020956,-103.076235),
+       clearMarkers(),
        markerSet ();
 // load #subMenu with variables on the list according to value
       $('#subMenu').empty();
@@ -352,8 +505,8 @@ $('#inlineFormCustomSelect').on('change', function() {
            newLocation(-22.922876, -43.462457);
            $('#listMenu').empty();
 // load #subMenu1 with array index according to value
-      $('#listMenu').on('change', function () {
-          var valueSub1 =  $('#listMenu').val();
+      $('#subMenu1').on('change', function () {
+          var valueSub1 =  $('#subMenu1').val();
           if (valueSub1 == 1) {
               $('#listMenu').empty();
               $('#listMenu').append(listmenuItems[18]);
