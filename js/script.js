@@ -195,6 +195,11 @@ $.getJSON('data/places.json', function (data) {
     });
 });
 
+//$('li').on('click', 'li', function() {
+    //var copyText = $('#p1' || '#p2').clone();
+    //$('#pic-input').innerHTML = copyText 
+//});
+
 
 //script help make search box functional
 $('#pac-input').on('click', function(){

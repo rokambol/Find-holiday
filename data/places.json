@@ -2,14 +2,18 @@
   {
     "continentId": 1,
     "continentName": "North America",
-    "location": [49.153077, -106.467719],
+    "location": [
+      49.153077,
+      -106.467719
+    ],
     "zoom": 4,
     "cities": [
       {
         "cityName": "Washington DC",
         "cityId": 1,
         "location": [
-          38.907345, -77.033095
+          38.907345,
+          -77.033095
         ],
         "zoom": 6,
         "cityDetails": {
@@ -19,7 +23,7 @@
           "population": "9,693,972"
         },
         "attractions": [
-          "<a href="#">International Spy Museum</a>",
+          "<a href='https://www.spymuseum.org/' target='_blank'>International Spy Museum</a>",
           "<a href='https://www.madametussauds.com/washington-dc/en/' target='_blank'>Madame Tussauds DC</a>",
           "<a href='https://www.mountvernon.org/' target='_blank'>George Washington's Mount Vernon</a>",
           "<a href='https://www.nationalgeographic.org' target='_blank'>National Geographic Museum</a>",
@@ -193,10 +197,10 @@
         ],
         "zoom": 6,
         "cityDetails": {
-        "picture": "images/City/N.ACITY/Vancouver.jpg",
-        "cityName": "Vancouver",
-        "country": "Canada",
-        "population": "631,490"
+          "picture": "images/City/N.ACITY/Vancouver.jpg",
+          "cityName": "Vancouver",
+          "country": "Canada",
+          "population": "631,490"
         },
         "attractions": [
           "<a href='https://scienceworld.ca/' target='_blank'>Science World</a>",
@@ -225,20 +229,25 @@
   {
     "continentId": 2,
     "continentName": "South America",
-    "location": [-19.496501, -58.081808],
+    "location": [
+      -19.496501,
+      -58.081808
+    ],
     "zoom": 4,
     "cities": [
       {
         "cityName": "Rio de Jenairo",
         "cityId": 7,
-        "location": [-22.922876, -43.462457
+        "location": [
+          -22.922876,
+          -43.462457
         ],
         "zoom": 6,
         "cityDetails": {
-        "picture": "images/City/S.ACit/RioDeJenairo.jpg",
-        "cityName": "Rio De Jenairo",
-        "country": "Brazil",
-        "population": "6.32 millions"
+          "picture": "images/City/S.ACit/RioDeJenairo.jpg",
+          "cityName": "Rio De Jenairo",
+          "country": "Brazil",
+          "population": "6.32 millions"
         },
         "attractions": [
           "<a href='https://cristoredentoroficial.com.br/' target='_blank'>Christ the Redeemer</a>",
@@ -271,10 +280,10 @@
         ],
         "zoom": 6,
         "cityDetails": {
-        "picture": "images/City/S.ACit/BuenosAires.jpg",
-        "cityName": "Buenos Aires",
-        "country": "Argentina",
-        "population": "2.89 millions"
+          "picture": "images/City/S.ACit/BuenosAires.jpg",
+          "cityName": "Buenos Aires",
+          "country": "Argentina",
+          "population": "2.89 millions"
         },
         "zoom": 12,
         "attractions": [
@@ -308,10 +317,10 @@
         ],
         "zoom": 6,
         "cityDetails": {
-        "picture": "images/City/S.ACit/Montevideo.jpg",
-        "cityName": "Montevideo",
-        "country": "Uruguay",
-        "population": "1.381 millions"
+          "picture": "images/City/S.ACit/Montevideo.jpg",
+          "cityName": "Montevideo",
+          "country": "Uruguay",
+          "population": "1.381 millions"
         },
         "attractions": [
           "<a href='http://www.montevideo.gub.uy/' target='_blank'>Montevideo sign</a>",
@@ -344,10 +353,10 @@
         ],
         "zoom": 6,
         "cityDetails": {
-        "picture": "images/City/S.ACit/F.Islands.jpg",
-        "cityName": "Falkland Islands",
-        "country": "Falkland Islands(UK)",
-        "population": "3,398"
+          "picture": "images/City/S.ACit/F.Islands.jpg",
+          "cityName": "Falkland Islands",
+          "country": "Falkland Islands(UK)",
+          "population": "3,398"
         },
         "attractions": [
           "<a href='https://www.falklandislands.com/things-to-do/gypsy-cove-p676401' target='_blank'>Gypsy Cove</a>",
@@ -380,10 +389,10 @@
         ],
         "zoom": 6,
         "cityDetails": {
-        "picture": "images/City/S.ACit/RioGrande.jpg",
-        "cityName": "Rio Grande",
-        "country": "Brazil",
-        "population": "198,048"
+          "picture": "images/City/S.ACit/RioGrande.jpg",
+          "cityName": "Rio Grande",
+          "country": "Brazil",
+          "population": "198,048"
         },
         "attractions": [
           "<a href='https://www.nps.gov/rigr/index.htm' target='_blank'>Rio Grande Wild and Scenic River</a>",
@@ -416,10 +425,10 @@
         ],
         "zoom": 6,
         "cityDetails": {
-        "picture": "images/City/S.ACit/Santiago.jpg",
-        "cityName": "Santiago",
-        "country": "Chile",
-        "population": "5.614 millions"
+          "picture": "images/City/S.ACit/Santiago.jpg",
+          "cityName": "Santiago",
+          "country": "Chile",
+          "population": "5.614 millions"
         },
         "attractions": [
           "<a href='http://www.skycostanera.cl/' target='_blank'>Sky Costanera</a>",
@@ -447,8 +456,11 @@
   },
   {
     "continentId": 3,
-    "continentName": "Europa",                                   
-    "location": [48.970097, 10.287922],
+    "continentName": "Europa",
+    "location": [
+      48.970097,
+      10.287922
+    ],
     "zoom": 4,
     "cities": [
       {
@@ -458,12 +470,12 @@
           51.409136,
           -0.062758
         ],
-         "zoom": 6,
+        "zoom": 6,
         "cityDetails": {
-        "picture": "images/City/Europa/London.jpg",
-        "cityName": "London",
-        "country": "United Kingdom",
-        "population": "8.136 millions"
+          "picture": "images/City/Europa/London.jpg",
+          "cityName": "London",
+          "country": "United Kingdom",
+          "population": "8.136 millions"
         },
         "attractions": [
           "<a href='https://www.theviewfromtheshard.com/' target='_blank'>The View from The Shard</a>",
@@ -494,12 +506,12 @@
           48.856871,
           2.335072
         ],
-         "zoom": 6,
+        "zoom": 6,
         "cityDetails": {
-        "picture": "images/City/Europa/Paris.jpg",
-        "cityName": "Paris",
-        "country": "France",
-        "population": "2.2 millions"
+          "picture": "images/City/Europa/Paris.jpg",
+          "cityName": "Paris",
+          "country": "France",
+          "population": "2.2 millions"
         },
         "attractions": [
           "<a href='https://www.toureiffel.paris/fr' target='_blank'>Eiffel Tower</a>",
@@ -530,12 +542,12 @@
           55.678157,
           12.578024
         ],
-         "zoom": 6,
+        "zoom": 6,
         "cityDetails": {
-        "picture": "images/City/Europa/Copenhagen.jpg",
-        "cityName": "Copenhagen",
-        "country": "Denmark",
-        "population": "602,481"
+          "picture": "images/City/Europa/Copenhagen.jpg",
+          "cityName": "Copenhagen",
+          "country": "Denmark",
+          "population": "602,481"
         },
         "attractions": [
           "<a href='http://www.rundetaarn.dk/' target='_blank'>Rundetaarn</a>",
@@ -566,12 +578,12 @@
           55.754242,
           37.599643
         ],
-         "zoom": 6,
+        "zoom": 6,
         "cityDetails": {
-        "picture": "images/City/Europa/Moscow.jpg",
-        "cityName": "Moscow",
-        "country": "Russia",
-        "population": "13.2 millions"
+          "picture": "images/City/Europa/Moscow.jpg",
+          "cityName": "Moscow",
+          "country": "Russia",
+          "population": "13.2 millions"
         },
         "attractions": [
           "<a href='https://www.kreml.ru/' target='_blank'>Moscow Kremlin</a>",
@@ -602,12 +614,12 @@
           41.901298,
           12.48861
         ],
-         "zoom": 6,
+        "zoom": 6,
         "cityDetails": {
-        "picture": "images/City/Europa/Rome.jpg",
-        "cityName": "Rome",
-        "country": "Italy",
-        "population": "2.873 millions"
+          "picture": "images/City/Europa/Rome.jpg",
+          "cityName": "Rome",
+          "country": "Italy",
+          "population": "2.873 millions"
         },
         "attractions": [
           "<a href='http://www.turismoroma.it' target='_blank'>Campo de' Fiori</a>",
@@ -638,12 +650,12 @@
           37.996834,
           23.725499
         ],
-         "zoom": 6,
+        "zoom": 6,
         "cityDetails": {
-        "picture": "images/City/Europa/Athens.jpg",
-        "cityName": "Athens",
-        "country": "Greece",
-        "population": "664,046"
+          "picture": "images/City/Europa/Athens.jpg",
+          "cityName": "Athens",
+          "country": "Greece",
+          "population": "664,046"
         },
         "attractions": [
           "<a href='https://www.greeka.com/attica' target='_blank'>Arch of Hadrian</a>",
@@ -672,6 +684,10 @@
   {
     "continentId": 4,
     "continentName": "Africa",
+    "location": [
+      0.566656,
+      24.248583
+    ],
     "zoom": 4,
     "cities": [
       {
@@ -681,35 +697,34 @@
           33.5757,
           -7.593175
         ],
-         "zoom": 6,
+        "zoom": 6,
         "cityDetails": {
-        "picture": "images/City/Africa/Casablanca.jpg",
-        "cityName": "Casablanca",
-        "country": "Morocco",
-        "population": "3.36 millions"
+          "picture": "images/City/Africa/Casablanca.jpg",
+          "cityName": "Casablanca",
+          "country": "Morocco",
+          "population": "3.36 millions"
         },
         "attractions": [
-          "Museum of Moroccan Judaism",
-          "Mahkama du Pacha",
-          "Voyage Sud Ouest",
-          "Bouskoura forest",
-          "Mohamed V Square"
+          "<a href='http://www.jewishmuseumcasa.com/' target='_blank'>Museum of Moroccan Judaism</a>",
+          "<a href=' https://www.morocco.com/attractions/mahkama-du-pacha/ ' target='_blank'>Mahkama du Pacha</a>",
+          "<a href=' https://www.terrasudadventures.com/circuits/voyage-decouverte-au-maroc-agadir-le-sud-ouest-marocain.html ' target='_blank'>Voyage Sud Ouest</a>",
+          "<a href=' https://www.beinginsatiable.com/bouskoura-forest/ ' target='_blank'>Bouskoura forest</a>",
+          "<a href=' https://www.tripadvisor.co.uk/ShowUserReviews-g293732-d478642-r504500898-Square_of_Mohammed_V-Casablanca_Grand_Casablanca_Region.html ' target='_blank'>Mohamed V Square</a>"
         ],
         "hotels": [
-          "Kempinski Nile Hotel Garden",
-          "Conrad Cairo",
-          "Ramses Hilton",
-          "Freedom Hostel",
-          "Hotel Sofitel Cairo Nile"
+          "<a href=' https://www.accorhotels.com/gb/hotel-6811-sofitel-casablanca-tour-blanche/index.shtml ' target='_blank'>Hotel Sofitel Casablanca</a>",
+          "<a href=' https://www.hyatt.com/en-US/hotel/morocco/hyatt-regency-casablanca/casab?src=corp_lclb_gmb_seo_eame_casab ' target='_blank'>Hyatt Regency</a>",
+          "<a href=' https://www.pestana.com/en/hotel/pestana-casablanca?utm_source=google-my-business&utm_medium=organicsearch&utm_campaign=pestana-casablanca ' target='_blank'>Pestana Casablanca</a>",
+          "<a href=' https://www.fourseasons.com/casablanca/?seo=google_local_cbl1_emea ' target='_blank'>Four Seasons Hotel</a>",
+          "<a href=' https://www.mogadorhotels.com/ ' target='_blank'>Grand Mogador City center - Luxury Hotel</a>"
         ],
         "restaurants": [
-          "The Osmanly Restaurant",
-          "Zitouni",
-          "Sequoia",
-          "Left Bank",
-          "Ristorante Tuscany"
+          "<a href=' https://www.kempinski.com/en/cairo/nile-hotel/dining/the-osmanly-restaurant/ ' target='_blank'>The Osmanly Restaurant</a>",
+          "<a href=' https://www.facebook.com/zaziz.zitouni ' target='_blank'>Zitouni</a>",
+          "<a href=' http://www.sequoiapressing.fr/ ' target='_blank'>Sequoia</a>",
+          "<a href=' https://www.ft.com/content/c6f6e486-fc68-11e8-b03f-bc62050f3c4e ' target='_blank'>Left Bank</a>",
+          "<a href=' https://www.facebook.com/pages/category/Italian-Restaurant/La-Toscana-restaurant-italien-235579416955558/ ' target='_blank'>Ristorante Tuscany</a>"
         ]
-       
       },
       {
         "cityName": "Cairo",
@@ -718,33 +733,33 @@
           30.019941,
           31.20971
         ],
-         "zoom": 6,
+        "zoom": 6,
         "cityDetails": {
-        "picture": "images/City/Africa/Cairo.jpg",
-        "cityName": "Cairo",
-        "country": "Egypt",
-        "population": "9.153 millions"
+          "picture": "images/City/Africa/Cairo.jpg",
+          "cityName": "Cairo",
+          "country": "Egypt",
+          "population": "9.153 millions"
         },
-         "attractions": [
-          "Cairo Tower",
-          "Giza pyramid complex",
-          "Great Sphinx of Giza",
-          "Khan el-Khalili",
-          "Wadi Degla"
+        "attractions": [
+          "<a href=' http://www.egypt.travel/en/attractions/cairo-tower ' target='_blank'>Cairo Tower</a>",
+          "<a href=' http://www.egypt.travel/en/attractions/giza-plateau ' target='_blank'>Giza pyramid complex</a>",
+          "<a href=' https://www.ancient.eu/The_Great_Sphinx_of_Giza/ ' target='_blank'>Great Sphinx of Giza</a>",
+          "<a href=' http://www.egypt.travel/attractions/khan-el-khalili/ ' target='_blank'>Khan el-Khalili</a>",
+          "<a href=' https://www.tripadvisor.co.uk/Attraction_Review-g294201-d469334-Reviews-Wadi_Degla-Cairo_Cairo_Governorate.html ' target='_blank'>Wadi Degla</a>"
         ],
         "hotels": [
-          "Hotel Sofitel Casablanca",
-          "Hyatt Regency",
-          "Pestana Casablanca",
-          "Four Seasons Hotel",
-          "Grand Mogador City center - Luxury Hotel"
+          "<a href=' https://www.kempinski.com/en/cairo/nile-hotel/?utm_medium=organic&utm_source=google&utm_campaign=KICAI1&utm_content=gmb&source=S308962248 ' target='_blank'>Kempinski Nile Hotel Garden</a>",
+          "<a href=' https://conradhotels3.hilton.com/en/hotels/egypt/conrad-cairo-CAICICI/index.html?WT.mc_id=zELWAKN0EMEA1CI2DMH3LocalSearch4DGGenericx6CAICICI ' target='_blank'>Conrad Cairo</a>",
+          "<a href=' https://www3.hilton.com/en/hotels/egypt/ramses-hilton-CAIRHTW/index.html?WT.mc_id=zELWAKN0EMEA1HI2DMH3LocalSearch4DGGenericx6CAIRHTW ' target='_blank'>Ramses Hilton</a>",
+          "<a href=' https://www.facebook.com/Freedom-Hostel-195801280506270/ ' target='_blank'>Freedom Hostel</a>",
+          "<a href=' https://www.accorhotels.com/gb/hotel-5307-sofitel-cairo-nile-el-gezirah/index.shtml ' target='_blank'>Hotel Sofitel Cairo Nile</a>"
         ],
         "restaurants": [
-          "Restaurant Le Basmane",
-          "Le Petit Rocher Restaurant",
-          "Restaurant Al-Mounia",
-          "Rick's Café Casablanca",
-          "Le Relais de Paris"
+          "<a href=' https://www.kempinski.com/en/cairo/nile-hotel/dining/the-osmanly-restaurant/ ' target='_blank'>The Osmanly Restaurant</a>",
+          "<a href=' https://www.facebook.com/zaziz.zitouni ' target='_blank'>Zitouni</a>",
+          "<a href=' http://www.sequoiapressing.fr/ ' target='_blank'>Sequoia</a>",
+          "<a href=' https://www.ft.com/content/c6f6e486-fc68-11e8-b03f-bc62050f3c4e ' target='_blank'>Left Bank</a>",
+          "<a href=' https://www.facebook.com/pages/category/Italian-Restaurant/La-Toscana-restaurant-italien-235579416955558/ ' target='_blank'>Ristorante Tuscany</a>"
         ]
       },
       {
@@ -754,33 +769,33 @@
           6.526206,
           3.374584
         ],
-         "zoom": 6,
+        "zoom": 6,
         "cityDetails": {
-        "picture": "images/City/Africa/Lagos.jpg",
-        "cityName": "Lagos",
-        "country": "Nigeria",
-        "population": "8,04 millions"
+          "picture": "images/City/Africa/Lagos.jpg",
+          "cityName": "Lagos",
+          "country": "Nigeria",
+          "population": "8,04 millions"
         },
         "attractions": [
-          "Freedom Park",
-          "Tafawa Balewa Square",
-          "Jhalobia Recreation Park and Garden",
-          "erra Kulture, Victoria Island",
-          "Nigerian National Museum"
+          "<a href=' https://www.freedomparklagos.com/ ' target='_blank'>Freedom Park</a>",
+          "<a href=' https://www.lonelyplanet.com/nigeria/lagos/attractions/tafawa-balewa-square/a/poi-sig/421447/355540 ' target='_blank'>Tafawa Balewa Square</a>",
+          "<a href=' http://jhalobia.com/ ' target='_blank'>Jhalobia Recreation Park and Garden</a>",
+          "<a href=' https://www.terrakulture.com/ ' target='_blank'>erra Kulture, Victoria Island</a>",
+          "<a href=' https://www.facebook.com/NATIONALMUSEUMLAGOS/ ' target='_blank'>Nigerian National Museum</a>"
         ],
         "hotels": [
-          "The George Lagos Hotel",
-          "The Wheatbaker Lagos",
-          "Oakspring Hotel & Luxury Suites",
-          "The Blowfish Hotel",
-          "The Avenue Suites"
+          "<a href=' https://thegeorgelagos.com/ ' target='_blank'>The George Lagos Hotel</a>",
+          "<a href=' https://www.thewheatbakerlagos.com/ ' target='_blank'>The Wheatbaker Lagos</a>",
+          "<a href=' http://www.oakspringhotelng.com/ ' target='_blank'>Oakspring Hotel & Luxury Suites</a>",
+          "<a href=' https://theblowfishhotel.com/ ' target='_blank'>The Blowfish Hotel</a>",
+          "<a href=' http://www.theavenuesuitesng.com/index.php/en/ ' target='_blank'>The Avenue Suites</a>"
         ],
         "restaurants": [
-          "Bungalow's",
-          "Jevinik Restaurant - Victoria Island",
-          "Hard Rock Cafe",
-          "RSVP Victoria Island",
-          "Ocean Basket Victoria"
+          "<a href=' https://www.bungalowrestaurant.com/ ' target='_blank'>Bungalow's</a>",
+          "<a href=' http://jevinik.com.ng/ ' target='_blank'>Jevinik Restaurant - Victoria Island</a>",
+          "<a href=' https://www.hardrockcafe.com/location/lagos/ ' target='_blank'>Hard Rock Cafe</a>",
+          "<a href=' https://www.facebook.com/Rsvplagos/ ' target='_blank'>RSVP Victoria Island</a>",
+          "<a href=' https://www.nigeria.oceanbasket.com/ ' target='_blank'>Ocean Basket Victoria</a>"
         ]
       },
       {
@@ -790,33 +805,33 @@
           -26.199541,
           28.044828
         ],
-         "zoom": 6,
+        "zoom": 6,
         "cityDetails": {
-        "picture": "images/City/Africa/Johannesburg.jpg",
-        "cityName": "Johannesburg",
-        "country": "South Africa",
-        "population": "957,441"
+          "picture": "images/City/Africa/Johannesburg.jpg",
+          "cityName": "Johannesburg",
+          "country": "South Africa",
+          "population": "957,441"
         },
         "attractions": [
-          "Wits Origins Centre Museum",
-          "SAB World of Beer",
-          "Gold Reef City",
-          "Johannesburg Zoo",
-          "Hashtag Escape"
+          "<a href=' https://www.wits.ac.za/origins/ ' target='_blank'>Wits Origins Centre Museum</a>",
+          "<a href=' https://www.sa-venues.com/attractionsga/sab-world-of-beer.htm ' target='_blank'>SAB World of Beer</a>",
+          "<a href=' https://www.tsogosun.com/gold-reef-city-casino/theme-park ' target='_blank'>Gold Reef City</a>",
+          "<a href=' http://www.jhbzoo.org.za/ ' target='_blank'>Johannesburg Zoo</a>",
+          "<a href=' http://www.hashtagescape.co.za/ ' target='_blank'>Hashtag Escape</a>"
         ],
         "hotels": [
-          "Protea Hotel by Marriott",
-          "Four Seasons Hotel The Westcliff",
-          "African Pride Melrose Arch",
-          "Crowne Plaza Johannesburg",
-          "Monarch Hotel"
+          "<a href=' https://www.marriott.co.uk/hotels/travel/jnbba-protea-hotel-johannesburg-balalaika-sandton/ ' target='_blank'>Protea Hotel by Marriott</a>",
+          "<a href=' https://www.fourseasons.com/johannesburg/?seo=google_local_jbg1_emea ' target='_blank'>Four Seasons Hotel The Westcliff</a>",
+          "<a href=' https://www.marriott.com/hotels/travel/jnbma-african-pride-melrose-arch-autograph-collection/?scid=bb1a189a-fec3-4d19-a255-54ba596febe2 ' target='_blank'>African Pride Melrose Arch</a>",
+          "<a href=' https://www.ihg.com/crowneplaza/hotels/us/en/johannesburg/jnbrb/hoteldetail?cm_mmc=GoogleMaps-_-CP-_-ZA-_-JNBRB ' target='_blank'>Crowne Plaza Johannesburg</a>",
+          "<a href=' https://www.monarchhotel.co.za/ ' target='_blank'>Monarch Hotel</a>"
         ],
         "restaurants": [
-          "Jamie's Italian",
-          "Marble Restaurant",
-          "moyo Melrose Arch",
-          "DW Eleven - 13",
-          "Restaurante Parreirinha"
+          "<a href=' https://www.jamieoliver.com/italian/south-africa/ ' target='_blank'>Jamie's Italian</a>",
+          "<a href=' https://marble.restaurant/?utm_source=google&utm_medium=organic&utm_campaign=GMB&utm_content=Marble%20Restaurant ' target='_blank'>Marble Restaurant</a>",
+          "<a href=' http://www.moyo.co.za/moyo-melrose-arch/ ' target='_blank'>moyo Melrose Arch</a>",
+          "<a href=' https://www.dw11-13.co.za/' target='_blank'>DW Eleven - 13</a>",
+          "<a href=' http://www.restauranteparreirinha.co.za/ ' target='_blank'>Restaurante Parreirinha</a>"
         ]
       },
       {
@@ -826,33 +841,33 @@
           -33.932501,
           18.455402
         ],
-         "zoom": 6,
+        "zoom": 6,
         "cityDetails": {
-        "picture": "images/City/Africa/CapeTown.jpg",
-        "cityName": "Cape Town",
-        "country": "South Africa",
-        "population": "433,688"
+          "picture": "images/City/Africa/CapeTown.jpg",
+          "cityName": "Cape Town",
+          "country": "South Africa",
+          "population": "433,688"
         },
         "attractions": [
-          "Silvermine Nature Reserve",
-          "Table Mountain National Park",
-          "District Six Museum",
-          "Two Oceans Aquarium",
-          "Kensington Place"
+          "<a href=' https://www.sanparks.org/parks/table_mountain/tourism/attractions.php#silvermine ' target='_blank'>Silvermine Nature Reserve</a>",
+          "<a href=' https://www.tablemountain.net/ ' target='_blank'>Table Mountain National Park</a>",
+          "<a href=' https://www.districtsix.co.za/ ' target='_blank'>District Six Museum</a>",
+          "<a href=' https://www.aquarium.co.za/ ' target='_blank'>Two Oceans Aquarium</a>",
+          "<a href=' http://www.kensingtonplace.co.za/' target='_blank'>Kensington Place</a>"
         ],
         "hotels": [
-          "Radisson Blu Le Vendome Hotel",
-          "Taj Cape Town",
-          "Hilton Cape Town City Centre",
-          "Belmond Mount Nelson Hotel",
-          "The Table Bay hotel"
+          "<a href=' https://www.radissonblu.com/en/hotel-levendome-capetown?facilitatorId=CSOSEO&csref=org_gmb_sk_en_sn_ho_CPTZV ' target='_blank'>Radisson Blu Le Vendome Hotel</a>",
+          "<a href=' https://www.tajhotels.com/en-in/taj/taj-cape-town/ ' target='_blank'>Taj Cape Town</a>",
+          "<a href=' https://www3.hilton.com/en/hotels/south-africa/hilton-cape-town-city-centre-CPTCCHI/index.html?WT.mc_id=zELWAKN0EMEA1HI2DMH3LocalSearch4DGGenericx6CPTCCHI ' target='_blank'>Hilton Cape Town City Centre</a>",
+          "<a href=' https://www.belmond.com/hotels/africa/south-africa/cape-town/belmond-mount-nelson-hotel/?utm_source=local_search&utm_medium=link&utm_campaign=google_business ' target='_blank'>Belmond Mount Nelson Hotel</a>",
+          "<a href=' https://www.suninternational.com/table-bay/ ' target='_blank'>The Table Bay hotel</a>"
         ],
         "restaurants": [
-          "Black Sheep Restaurant",
-          "La Colombe Restaurant",
-          "Addis in Cape",
-          "The Foodbarn Restaurant",
-          "The Hussar Grill Camps Bay"
+          "<a href=' https://blacksheeprestaurant.co.za/ ' target='_blank'>Black Sheep Restaurant</a>",
+          "<a href=' https://www.lacolombe.co.za/ ' target='_blank'>La Colombe Restaurant</a>",
+          "<a href=' http://addisincape.co.za/ ' target='_blank'>Addis in Cape</a>",
+          "<a href=' https://www.thefoodbarn.co.za/restaurant/ ' target='_blank'>The Foodbarn Restaurant</a>",
+          "<a href=' https://www.hussargrill.co.za/find-us/western-cape/camps-bay/ ' target='_blank'>The Hussar Grill Camps Bay</a>"
         ]
       },
       {
@@ -862,33 +877,33 @@
           0.052616,
           32.464036
         ],
-         "zoom": 6,
+        "zoom": 6,
         "cityDetails": {
-        "picture": "images/City/Africa/Entebbe.jpg",
-        "cityName": "Entebbe",
-        "country": "Uganda",
-        "population": "69,958"
+          "picture": "images/City/Africa/Entebbe.jpg",
+          "cityName": "Entebbe",
+          "country": "Uganda",
+          "population": "69,958"
         },
         "attractions": [
-          "Wild Frontiers Uganda Safaris",
-          "Uganda Wildlife Conservation",
-          "Chimpanzee Trust Head Office",
-          "Water Front Beach",
-          "Kitubulu forest and beach"
+          "<a href=' http://wildfrontiers.co.ug/ ' target='_blank'>Wild Frontiers Uganda Safaris</a>",
+          "<a href=' https://uwec.ug/ ' target='_blank'>Uganda Wildlife Conservation</a>",
+          "<a href=' https://ngambaisland.org/ ' target='_blank'>Chimpanzee Trust Head Office</a>",
+          "<a href=' https://www.facebook.com/pages/water-front-beach-entebbe/804054809625045 ' target='_blank'>Water Front Beach</a>",
+          "<a href=' https://travel.jumia.com/en-gb/destinations/kitubulu-forest-and-beach-6224887 ' target='_blank'>Kitubulu forest and beach</a>"
         ],
         "hotels": [
-          "Protea Hotel by Marriott",
-          "Best Western Premier Garden Hotel",
-          "Lake Victoria Hotel",
-          "2 Friends Beach Hotel",
-          "Viavia Entebbe"
+          "<a href=' https://www.marriott.com/hotels/travel/ebben-protea-hotel-entebbe/ ' target='_blank'>Protea Hotel by Marriott</a>",
+          "<a href=' https://www.bestwestern.com/en_US/book/hotel-rooms.75601.html?iata=00171880&ssob=BLBWI0004G&cid=BLBWI0004G:google:gmb:75601 ' target='_blank'>Best Western Premier Garden Hotel</a>",
+          "<a href=' http://lvhotel.co.ug/ ' target='_blank'>Lake Victoria Hotel</a>",
+          "<a href='https://www.2friendshotel.com/ ' target='_blank'>2 Friends Beach Hotel</a>",
+          "<a href=' http://viavia.world/en/africa/entebbe/ ' target='_blank'>Viavia Entebbe</a>"
         ],
         "restaurants": [
-          "Faze 3",
-          "Anna's Corner",
-          "Cafe Javas",
-          "Thai Garden Entebbe",
-          "Thammaphon Thai Restaurant"
+          "<a href=' https://www.lonelyplanet.com/uganda/entebbe/restaurants/faze-3/a/poi-eat/1502943/1332054' target='_blank'>Faze 3</a>",
+          "<a href=' https://www.lonelyplanet.com/uganda/entebbe/restaurants/annas-corner/a/poi-eat/1351515/1332054 ' target='_blank'>Anna's Corner</a>",
+          "<a href=' https://cafejavas.co.ug/ ' target='_blank'>Cafe Javas</a>",
+          "<a href=' http://www.thaigarden-ebb.com/ ' target='_blank'>Thai Garden Entebbe</a>",
+          "<a href=' https://placesmap.net/UG/Thammaphon-Thai-Restaurant-56215/ ' target='_blank'>Thammaphon Thai Restaurant</a>"
         ]
       }
     ]
@@ -896,6 +911,10 @@
   {
     "continentId": 5,
     "continentName": "Asia",
+    "location": [
+      36.537839,
+      87.910133
+    ],
     "zoom": 4,
     "cities": [
       {
@@ -905,33 +924,33 @@
           25.215561,
           55.273019
         ],
-         "zoom": 6,
+        "zoom": 6,
         "cityDetails": {
-        "picture": "images/City/Asia/Dubai.jpg",
-        "cityName": "Dubai",
-        "country": "OAE",
-        "population": "3.137 millions"
+          "picture": "images/City/Asia/Dubai.jpg",
+          "cityName": "Dubai",
+          "country": "OAE",
+          "population": "3.137 millions"
         },
         "attractions": [
-          "Dubai Aquarium & Underwater Zoo",
-          "Downtown Slide",
-          "Dubai Ice Rink",
-          "Jumaira Public Beach",
-          "Dubai Marina Walk - Emaar"
+          "<a href=' https://www.thedubaiaquarium.com/en/Default.aspx ' target='_blank'>Dubai Aquarium & Underwater Zoo</a>",
+          "<a href=' https://www.emaar.com/en/our-communities ' target='_blank'>Downtown Slide</a>",
+          "<a href=' https://www.dubaiicerink.com/en/ ' target='_blank'>Dubai Ice Rink</a>",
+          "<a href=' https://login.dm.gov.ae/ ' target='_blank'>Jumaira Public Beach</a>",
+          "<a href=' https://www.emaar.com/en/our-communities/dubai-marina?utm_source=google&utm_campaign=local_search&utm_medium=organic ' target='_blank'>Dubai Marina Walk - Emaar</a>"
         ],
         "hotels": [
-          "Burj Al Arab Jumeirah",
-          "JW Marriott Marquis Hotel",
-          "Grand Hyatt",
-          "Jumeirah Emirates Towers Hotel",
-          "Palace Downtown"
+          "<a href='' https://www.jumeirah.com/en/hotels-resorts/dubai/burj-al-arab/?utm_source=google&utm_medium=google%20places&utm_campaign=hotel' target='_blank'>Burj Al Arab Jumeirah</a>",
+          "<a href=' https://www.marriott.com/hotels/travel/dxbjw-jw-marriott-marquis-hotel-dubai/?scid=bb1a189a-fec3-4d19-a255-54ba596febe2 ' target='_blank'>JW Marriott Marquis Hotel</a>",
+          "<a href=' https://www.hyatt.com/en-US/hotel/united-arab-emirates/grand-hyatt-dubai/dxbgh?src=corp_lclb_gmb_seo_swa_dxbgh ' target='_blank'>Grand Hyatt</a>",
+          "<a href=' https://www.jumeirah.com/en/hotels-resorts/dubai/jumeirah-emirates-towers/?utm_source=google&utm_medium=google%20places&utm_campaign=hotel ' target='_blank'>Jumeirah Emirates Towers Hotel</a>",
+          "<a href=' https://www.addresshotels.com/en/ ' target='_blank'>Palace Downtown</a>"
         ],
         "restaurants": [
-          "The Talk Restaurant",
-          "Armani/Ristorante",
-          "Wavebreaker",
-          "Armani / Amal",
-          "Indego by Vineet"
+          "<a href= ' https://www.movenpick.com/en/middle-east/uae/dubai/hotel-dubai-jumeirah-beach/restaurants/restaurants/the-talk-restaurant/?utm_source=google&utm_medium=local&utm_campaign=GLocal+the-talk-rest ' target='_blank'>The Talk Restaurant</a>",
+          "<a href=' https://www.armanihoteldubai.com/ ' target='_blank'>Armani/Ristorante</a>",
+          "<a href=' https://www3.hilton.com/en/hotels/uae/hilton-dubai-jumeirah-DXBJBHI/dining/wavebreaker-restaurant.html ' target='_blank'>Wavebreaker</a>",
+          "<a href=' https://www.facebook.com/tascadubai/ ' target='_blank'>Tasca </a>",
+          "<a href=' https://www.indegobyvineet.com/ ' target='_blank'>Indego by Vineet</a>"
         ]
       },
       {
@@ -941,33 +960,33 @@
           19.084794,
           72.883234
         ],
-         "zoom": 6,
+        "zoom": 6,
         "cityDetails": {
-        "picture": "images/City/Asia/Mumbai.jpg",
-        "cityName": "Mumbai",
-        "country": "India",
-        "population": "18.41 millions"
+          "picture": "images/City/Asia/Mumbai.jpg",
+          "cityName": "Mumbai",
+          "country": "India",
+          "population": "18.41 millions"
         },
         "attractions": [
-          "Red Carpet Wax Museum",
-          "Chota Kashmir The Boating Club",
-          "Mahakali Caves",
-          "Gateway of India",
-          "Band Stand"
+          "<a href=' https://www.redcarpetmuseum.com/ ' target='_blank'>Red Carpet Wax Museum</a>",
+          "<a href=' https://mumbaitourism.travel/chhota-kashmir-mumbai ' target='_blank'>Chota Kashmir The Boating Club</a>",
+          "<a href=' http://asi.nic.in/ ' target='_blank'>Mahakali Caves</a>",
+          "<a href=' https://www.mumbai.org.uk/gate-way-of-india.html ' target='_blank'>Gateway of India</a>",
+          "<a href=' https://mumbaitourism.travel/bandra-bandstand-mumbai ' target='_blank'>Band Stand</a>"
         ],
         "hotels": [
-          "The Orchid Hotel Mumbai Vile Parle",
-          "Hilton Mumbai International",
-          "The Oberoi, Mumbai",
-          "The Taj Mahal Palace",
-          "Four Seasons Hotel"
+          "<a href=' https://www.orchidhotel.com/mumbai-vile-parle/ ' target='_blank'>The Orchid Hotel Mumbai Vile Parle</a>",
+          "<a href=' https://www3.hilton.com/en/hotels/india/hilton-mumbai-international-airport-BOMAPHI/index.html?WT.mc_id=zELWAKN0APAC1HI2DMH3LocalSearch4DGGenericx6BOMAPHI ' target='_blank'>Hilton Mumbai International</a>",
+          "<a href=' https://www.oberoihotels.com/hotels-in-mumbai/?utm_source=GMBlisting&utm_medium=organic ' target='_blank'>The Oberoi, Mumbai</a>",
+          "<a href=' https://www.tajhotels.com/en-in/taj/taj-mahal-palace-mumbai/?utm_medium=Local&utm_source=Google&utm_campaign=The-Taj-Mahal-Palace-Mumbai ' target='_blank'>The Taj Mahal Palace</a>",
+          "<a href=' https://www.fourseasons.com/mumbai/?seo=google_local_mum1_apac ' target='_blank'>Four Seasons Hotel</a>"
         ],
         "restaurants": [
-          "Shree Thaker Bhojanalay",
-          "Momo Cafe",
-          "Celini",
-          "Seasonal Tastes",
-          "Lake View Cafe"
+          "<a href=' https://www.facebook.com/ShreeThaker1945/ ' target='_blank'>Shree Thaker Bhojanalay</a>",
+          "<a href=' https://www.marriott.com/hotels/hotel-information/restaurant/bomcy-courtyard-mumbai-international-airport/ ' target='_blank'>Momo Cafe</a>",
+          "<a href=' https://www.hyattrestaurants.com/en/dining/india/mumbai/italian-restaurant-in-bkc-celini ' target='_blank'>Celini</a>",
+          "<a href=' https://www.zomato.com/mumbai/seasonal-tastes-the-westin-mumbai-garden-city-goregaon-east ' target='_blank'>Seasonal Tastes</a>",
+          "<a href=' https://www.marriott.com/hotels/hotel-information/restaurant/bombr-renaissance-mumbai-convention-centre-hotel/?scid=bb1a189a-fec3-4d19-a255-54ba596febe2 ' target='_blank'>Lake View Cafe</a>"
         ]
       },
       {
@@ -977,33 +996,33 @@
           6.926264,
           79.861009
         ],
-         "zoom": 6,
+        "zoom": 6,
         "cityDetails": {
-        "picture": "images/City/Asia/Colombo.jpg",
-        "cityName": "Colombo",
-        "country": "Shri Lanka",
-        "population": "752,993"
+          "picture": "images/City/Asia/Colombo.jpg",
+          "cityName": "Colombo",
+          "country": "Shri Lanka",
+          "population": "752,993"
         },
         "attractions": [
-          "Viharamahadevi Park",
-          "Gangaramaya Park",
-          "Field Ornithology Group",
-          "Galle Face Green",
-          "Hempel Galleries"
+          "<a href=' http://www.colombo.mc.gov.lk/parks.php ' target='_blank'>Viharamahadevi Park</a>",
+          "<a href=' http://gangaramaya.com/ ' target='_blank'>Gangaramaya Park</a>",
+          "<a href=' https://fogsl.cmb.ac.lk/ ' target='_blank'>Field Ornithology Group</a>",
+          "<a href=' https://lanka.com/about/attractions/galle-face-green/ ' target='_blank'>Galle Face Green</a>",
+          "<a href=' http://www.hempelgalleries.com/ ' target='_blank'>Hempel Galleries</a>"
         ],
         "hotels": [
-          "Mövenpick Hotel Colombo",
-          "Hilton Colombo",
-          "Cinnamon Grand Colombo",
-          "OZO Colombo",
-          "Fairway Colombo"
+          "<a href=' https://www.movenpick.com/en/asia/sri-lanka/colombo/movenpick-hotel-colombo/overview/?utm_source=google&utm_medium=local&utm_campaign=Glocal+colombo ' target='_blank'>Mövenpick Hotel Colombo</a>",
+          "<a href=' https://www3.hilton.com/en_US/hi/search/findhotels/results.htm?view=LIST ' target='_blank'>Hilton Colombo</a>",
+          "<a href=' https://www.cinnamonhotels.com/cinnamongrandcolombo ' target='_blank'>Cinnamon Grand Colombo</a>",
+          "<a href=' https://www.ozohotels.com/exclusive-promotions.aspx?promocode=BookDirect&prop=ocs&utm_source=google&utm_medium=gmb&utm_campaign=ocs ' target='_blank'>OZO Colombo</a>",
+          "<a href=' https://www.fairwaycolombo.com/ ' target='_blank'>Fairway Colombo</a>"
         ],
         "restaurants": [
-          "Graze Kitchen",
-          "Ministry of Crab",
-          "Nuga Gama",
-          "Ikoi Tei by WIP",
-          "The Gallery Café"
+          "<a href=' http://www.hiltoncolombo1.com/GrazeKitchen ' target='_blank'>Graze Kitchen</a>",
+          "<a href=' https://www.ministryofcrab.com/ ' target='_blank'>Ministry of Crab</a>",
+          "<a href=' https://www.cinnamonhotels.com/cinnamongrandcolombo/experiences/nuga-gama ' target='_blank'>Nuga Gama</a>",
+          "<a href=' https://www.timeout.com/sri-lanka/restaurants/ikoi-tei-by-wip ' target='_blank'>Ikoi Tei by WIP</a>",
+          "<a href=' http://www.paradiseroad.lk/gallery_cafe/ ' target='_blank'>The Gallery Café</a>"
         ]
       },
       {
@@ -1013,33 +1032,33 @@
           3.137818,
           101.689046
         ],
-         "zoom": 6,
+        "zoom": 6,
         "cityDetails": {
-        "picture": "images/City/Asia/KualaLumpur.jpg",
-        "cityName": "Kuala Lumpur",
-        "country": " Malaysia",
-        "population": "1.589 millions"
+          "picture": "images/City/Asia/KualaLumpur.jpg",
+          "cityName": "Kuala Lumpur",
+          "country": " Malaysia",
+          "population": "1.589 millions"
         },
         "attractions": [
-          "Kuala Lumpur Tower",
-          "Royal Selangor Visitor Centre",
-          "Merdeka Square",
-          "Aquaria KLCC",
-          "Central Market"
+          "<a href=' https://www.munoha.com/kltower/ ' target='_blank'>Kuala Lumpur Tower</a>",
+          "<a href=' https://visitorcentre.royalselangor.com/ ' target='_blank'>Royal Selangor Visitor Centre</a>",
+          "<a href=' https://www.munoha.com/ ' target='_blank'>Merdeka Square</a>",
+          "<a href=' http://www.aquariaklcc.com/ ' target='_blank'>Aquaria KLCC</a>",
+          "<a href=' http://www.centralmarket.com.my/ ' target='_blank'>Central Market</a>"
         ],
         "hotels": [
-          "Shangri-La Hotel",
-          "Hotel Istana Kuala Lumpur",
-          "Pullman Kuala Lumpur",
-          "Sunway Putra Hotel",
-          "Seri Pacific Hotel"
+          "<a href=' https://www.shangri-la.com/kualalumpur/shangrila/ ' target='_blank'>Shangri-La Hotel</a>",
+          "<a href=' https://www.hotelistana.com.my/en ' target='_blank'>Hotel Istana Kuala Lumpur</a>",
+          "<a href=' https://www.pullman-kualalumpur-citycentre.com/ ' target='_blank'>Pullman Kuala Lumpur</a>",
+          "<a href=' https://putra.sunwayhotels.com/en-us '  target='_blank'>Sunway Putra Hotel</a>",
+          "<a href=' https://www.seripacifichotel.com/ '  target='_blank'>Seri Pacific Hotel</a>"
         ],
         "restaurants": [
-          "Fuego, Troika Sky Dining",
-          "Dining In The Dark KL",
-          "Quivo Restaurant",
-          "Drift Dining and Bar",
-          "El Cerdo KL"
+          "<a href=' http://www.troikaskydining.com/fuego/ ' target='_blank'>Fuego, Troika Sky Dining</a>",
+          "<a href=' https://dininginthedarkkl.com/ ' target='_blank'>Dining In The Dark KL</a>",
+          "<a href=' http://www.quivo.my/ ' target='_blank'>Quivo Restaurant</a>",
+          "<a href=' https://www.driftdining.com/ ' target='_blank'>Drift Dining and Bar</a>",
+          "<a href=' https://elcerdokl.com/ ' target='_blank'>El Cerdo KL</a>"
         ]
       },
       {
@@ -1049,33 +1068,33 @@
           22.337251,
           114.183957
         ],
-         "zoom": 6,
+        "zoom": 6,
         "cityDetails": {
-        "picture": "images/City/Asia/HongKong.jpg",
-        "cityName": "Hong Kong",
-        "country": "China",
-        "population": "7.392 millions"
+          "picture": "images/City/Asia/HongKong.jpg",
+          "cityName": "Hong Kong",
+          "country": "China",
+          "population": "7.392 millions"
         },
         "attractions": [
-          "Golden Bauhinia Square",
-          "Nan Lian Garden",
-          "Avenue of Stars",
-          "The Peak Neighbourhood",
-          "Hong Kong Disneyland"
+          "<a href=' https://www.hkcec.com/ ' target='_blank'>Golden Bauhinia Square</a>",
+          "<a href=' https://www.hongkong.net/attractions/nan-lian-garden.html ' target='_blank'>Nan Lian Garden</a>",
+          "<a href=' https://www.tourism.gov.hk/symphony/english/details/details.html ' target='_blank'>Avenue of Stars</a>",
+          "<a href=' https://expatessentials.net/hong-kong-neighbourhoods-the-peak/ ' target='_blank'>The Peak Neighbourhood</a>",
+          "<a href=' https://www.hongkongdisneyland.com/?located=true ' target='_blank'>Hong Kong Disneyland</a>"
         ],
         "hotels": [
-          "The Ritz-Carlton, Hong Kong",
-          "The Landmark, Mandarin Oriental",
-          "The Upper House",
-          "The Murray",
-          "The Langham"
+          "<a href=' http://www.ritzcarlton.com/en/hotels/china/hong-kong?scid=bb1a189a-fec3-4d19-a255-54ba596febe2 ' target='_blank'>The Ritz-Carlton, Hong Kong</a>",
+          "<a href=' https://www.mandarinoriental.com/hong-kong/the-landmark/luxury-hotel?htl=LMHKG&kw=LMHKG&eng=google&src=local ' target='_blank'>The Landmark, Mandarin Oriental</a>",
+          "<a href=' https://www.upperhouse.com/en/default ' target='_blank'>The Upper House</a>",
+          "<a href=' https://www.niccolohotels.com/hotels/hongkong/central/the_murray/index.html ' target='_blank'>The Murray</a>",
+          "<a href=' http://www.langhamhotels.com/en/the-langham/hong-kong/ ' target='_blank'>The Langham</a>"
         ],
         "restaurants": [
-          "Asia Village",
-          "Ping Pong St Katharine Docks",
-          "New City",
-          "Silk Road",
-          "New Asia"
+          "<a href=' http://www.discoverhongkong.com/uk/see-do/culture-heritage/historical-sites/chinese/kat-hing-wai-walled-village.jsp ' target='_blank'>Asia Village</a>",
+          "<a href=' https://www.pingpongdimsum.com/find-book/ ' target='_blank'>Ping Pong St Katharine Docks</a>",
+          "<a href=' https://foursquare.com/v/new-city-restaurant-%E6%96%B0%E5%9F%8E%E5%B8%82%E9%A4%90%E5%BB%B3/4aeb7015f964a52010c221e3 ' target='_blank'>New City</a>",
+          "<a href=' https://www.crossroads.org.hk/global-handicrafts/cafe/ ' target='_blank'>Silk Road</a>",
+          "<a href=' http://newhongkong.im/ ' target='_blank'>New Asia</a>"
         ]
       },
       {
@@ -1085,33 +1104,33 @@
           35.710376,
           139.732444
         ],
-         "zoom": 6,
+        "zoom": 6,
         "cityDetails": {
-        "picture": "images/City/Asia/Tokyo.jpg",
-        "cityName": "Tokyo",
-        "country": "Japan",
-        "population": "9.273 millions"
+          "picture": "images/City/Asia/Tokyo.jpg",
+          "cityName": "Tokyo",
+          "country": "Japan",
+          "population": "9.273 millions"
         },
         "attractions": [
-          "Tokyo DisneySea",
-          "Tokyo Skytree",
-          "Ameya-Yokochō",
-          "Tokyo Tower",
-          "Shinjuku Gyo-en"
+          "<a href=' https://www.tokyodisneyresort.jp/tds/ ' target='_blank'>Tokyo DisneySea</a>",
+          "<a href=' http://www.tokyo-skytree.jp/ ' target='_blank'>Tokyo Skytree</a>",
+          "<a href=' http://www.ameyoko.net/ ' target='_blank'>Ameya-Yokochō</a>",
+          "<a href=' https://www.tokyotower.co.jp/ ' target='_blank'>Tokyo Tower</a>",
+          "<a href=' https://www.env.go.jp/garden/shinjukugyoen/index.html ' target='_blank'>Shinjuku Gyo-en</a>"
         ],
         "hotels": [
-          "The Peninsula Tokyo",
-          "The Ritz-Carlton, Tokyo",
-          "The Tokyo Station Hotel",
-          "Four Seasons Hotel",
-          "Conrad Tokyo"
+          "<a href=' https://www.peninsula.com/en/tokyo/5-star-luxury-hotel-ginza ' target='_blank'>The Peninsula Tokyo</a>",
+          "<a href=' http://www.ritzcarlton.com/en/hotels/japan/tokyo?scid=bb1a189a-fec3-4d19-a255-54ba596febe2 ' target='_blank'>The Ritz-Carlton, Tokyo</a>",
+          "<a href=' https://www.tokyostationhotel.jp/?utm_source=google&utm_medium=knowledgepanel&utm_campaign=top ' target='_blank'>The Tokyo Station Hotel</a>",
+          "<a href=' https://www.fourseasons.com/tokyo/?seo=google_local_mar1_apac ' target='_blank'>Four Seasons Hotel</a>",
+          "<a href=' https://conradhotels3.hilton.com/en/hotels/japan/conrad-tokyo-TYOCICI/index.html?WT.mc_id=zELWAKN0APAC1CI2DMH3LocalSearch4DGGenericx6TYOCICI ' target='_blank'>Conrad Tokyo</a>"
         ],
         "restaurants": [
-          "Malay Asian Cuisine",
-          "Ganesha",
-          "Nobu",
-          "plate tokyo",
-          "Asian kebab"
+          "<a href=' http://www.malayasiancuisine.com/ ' target='_blank'>Malay Asian Cuisine</a>",
+          "<a href=' http://www.ganeshadining.com/ ' target='_blank'>Ganesha</a>",
+          "<a href=' https://www.noburestaurants.com/tokyo-jp-jp/home/ ' target='_blank'>Nobu</a>",
+          "<a href=' https://www.facebook.com/platetokyo/ ' target='_blank'>plate tokyo</a>",
+          "<a href=' https://tokyocheapo.com/restaurant/asian-kebab-roppongi-branch/ ' target='_blank'>Asian kebab</a>"
         ]
       }
     ]
@@ -1119,6 +1138,10 @@
   {
     "continentId": 6,
     "continentName": "Australia and New Zealand",
+    "location": [
+      -28.019469,
+      145.852929
+    ],
     "zoom": 4,
     "cities": [
       {
@@ -1128,33 +1151,33 @@
           -32.023278,
           115.892434
         ],
-         "zoom": 6,
+        "zoom": 6,
         "cityDetails": {
-        "picture": "images/City/A and NZ/PERTH.jpg",
-        "cityName": "Perth",
-        "country": "Australia",
-        "population": "1.945 millions"
+          "picture": "images/City/A and NZ/PERTH.jpg",
+          "cityName": "Perth",
+          "country": "Australia",
+          "population": "1.945 millions"
         },
         "attractions": [
-          "Swan Bells",
-          "Kings Park",
-          "Elizabeth Quay",
-          "Perth Cultural Centre",
-          "Penguin Island"
+          "<a href=' https://www.thebelltower.com.au/ ' target='_blank'>Swan Bells</a>",
+          "<a href=' https://www.bgpa.wa.gov.au/kings-park ' target='_blank'>Kings Park</a>",
+          "<a href=' https://www.mra.wa.gov.au/projects-and-places/elizabeth-quay ' target='_blank'>Elizabeth Quay</a>",
+          "<a href=' https://www.ptt.wa.gov.au/venues/perth-cultural-centre/ ' target='_blank'>Perth Cultural Centre</a>",
+          "<a href=' https://www.penguinisland.com.au/ ' target='_blank'>Penguin Island</a>"
         ],
         "hotels": [
-          "Parmelia Hilton",
-          "Duxton Hotel",
-          "Novotel Perth Langley",
-          "Miss Maud Hotel",
-          "Hyatt Regency Perth"
+          "<a href=' https://www3.hilton.com/en/hotels/western-australia/parmelia-hilton-perth-PERHITW/index.html?WT.mc_id=zELWAKN0APAC1HI2DMH3LocalSearch4DGGenericx6PERHITW ' target='_blank'>Parmelia Hilton</a>",
+          "<a href=' https://www.perth.duxtonhotels.com/ ' target='_blank'>Duxton Hotel</a>",
+          "<a href=' https://www.accorhotels.com/gb/hotel-1764-novotel-perth-langley/index.shtml ' target='_blank'>Novotel Perth Langley</a>",
+          "<a href=' https://www.missmaudhotel.com.au/ ' target='_blank'>Miss Maud Hotel</a>",
+          "<a href=' https://www.hyatt.com/en-US/hotel/australia/hyatt-regency-perth/perth?src=corp_lclb_gmb_seo_aspac_perth ' target='_blank'>Hyatt Regency Perth</a>"
         ],
         "restaurants": [
-          "C Restaurant",
-          "Friends Restaurant",
-          "Mister Walker Restaurant",
-          "Petition",
-          "Annalakshmi Restaurant"
+          "<a href=' https://www.crestaurant.com.au/ ' target='_blank'>C Restaurant</a>",
+          "<a href=' http://www.friendsrestaurant.com.au/ ' target='_blank'>Friends Restaurant</a>",
+          "<a href=' http://www.mrwalker.com.au/ ' target='_blank'>Mister Walker Restaurant</a>",
+          "<a href=' https://petitionperth.com/ ' target='_blank'>Petition</a>",
+          "<a href=' http://www.annalakshmi.com.au/ ' target='_blank'>Annalakshmi Restaurant</a>"
         ]
       },
       {
@@ -1164,33 +1187,33 @@
           -37.817348,
           144.940379
         ],
-         "zoom": 6,
+        "zoom": 6,
         "cityDetails": {
-        "picture": "images/City/A and NZ/Melbourne.jpg",
-        "cityName": "Melbourne",
-        "country": "Australia",
-        "population": "4.44 millions"
+          "picture": "images/City/A and NZ/Melbourne.jpg",
+          "cityName": "Melbourne",
+          "country": "Australia",
+          "population": "4.44 millions"
         },
         "attractions": [
-          "Australian Forest Walk",
-          "Central Big Clock",
-          "Yarra River",
-          "Madame Brussels Lane",
-          "Statue of Joan of Arc"
+          "<a href=' https://www.rbg.vic.gov.au/visit-melbourne/attractions/plant-collections/australian-forest-walk ' target='_blank'>Australian Forest Walk</a>",
+          "<a href=' https://www.melbournecentral.com.au/home ' target='_blank'>Central Big Clock</a>",
+          "<a href=' http://yarrariver.melbourne/ ' target='_blank'>Yarra River</a>",
+          "<a href=' https://madamebrusselslane.com.au/home/contact/ ' target='_blank'>Madame Brussels Lane</a>",
+          "<a href=' https://blogs.slv.vic.gov.au/our-stories/joan-of-arc/ ' target='_blank'>Statue of Joan of Arc</a>"
         ],
         "hotels": [
-          "InterContinental Melbourne",
-          "The Victoria Hotel",
-          "Adelphi Hotel",
-          "Pegasus Apart'Hotel",
-          "Grand Hyatt"
+          "<a href=' https://www.ihg.com/intercontinental/hotels/us/en/melbourne/melha/hoteldetail?cm_mmc=GoogleMaps-_-IC-_-AU-_-MELHA ' target='_blank'>InterContinental Melbourne</a>",
+          "<a href=' https://www.rydges.com/accommodation/melbourne-vic/the-victoria-hotel/ ' target='_blank'>The Victoria Hotel</a>",
+          "<a href=' https://adelphi.com.au/ ' target='_blank'>Adelphi Hotel</a>",
+          "<a href=' https://www.pegasussuites.com.au ' target='_blank'>Pegasus Apart'Hotel</a>",
+          "<a href=' https://www.hyatt.com/en-US/hotel/australia/grand-hyatt-melbourne/melbo?src=corp_lclb_gmb_seo_aspac_melbo ' target='_blank'>Grand Hyatt</a>"
         ],
         "restaurants": [
-          "Maha",
-          "Tipo 00",
-          "Sezar Restaurant",
-          "Coda",
-          "Longrain Restaurant"
+          "<a href=' https://maharestaurant.com.au/ ' target='_blank'>Maha</a>",
+          "<a href=' https://www.tipo00.com.au/' target='_blank'>Tipo 00</a>",
+          "<a href=' http://sezar.com.au/ ' target='_blank'>Sezar Restaurant</a>",
+          "<a href=' https://www.codarestaurant.com.au/ ' target='_blank'>Coda</a>",
+          "<a href=' https://longrain.com/ ' target='_blank'>Longrain Restaurant</a>"
         ]
       },
       {
@@ -1200,33 +1223,33 @@
           -33.864985,
           151.185559
         ],
-         "zoom": 6,
+        "zoom": 6,
         "cityDetails": {
-        "picture": "images/City/A and NZ/Sydney.jpg",
-        "cityName": "Sydney",
-        "country": "Australia",
-        "population": "4.841 millions"
+          "picture": "images/City/A and NZ/Sydney.jpg",
+          "cityName": "Sydney",
+          "country": "Australia",
+          "population": "4.841 millions"
         },
         "attractions": [
-          "The Sydney Fernery",
-          "Mrs Macquarie's Chair",
-          "Madame Tussauds",
-          "Parliament House",
-          "Wild Life Sydney"
+          "<a href=' https://www.rbgsyd.nsw.gov.au/ ' target='_blank'>The Sydney Fernery</a>",
+          "<a href=' https://www.rbgsyd.nsw.gov.au/ ' target='_blank'>Mrs Macquarie's Chair</a>",
+          "<a href=' https://www.madametussauds.com.au/sydney/en/?utm_source=gmb&utm_medium=organic&utm_campaign=yext&utm_content=2 ' target='_blank'>Madame Tussauds</a>",
+          "<a href=' https://www.parliament.nsw.gov.au/Pages/home.aspx ' target='_blank'>Parliament House</a>",
+          "<a href=' https://www.wildlifesydney.com.au/?utm_source=gmb&utm_medium=organic&utm_campaign=yext&utm_content=4 ' target='_blank'>Wild Life Sydney</a>"
         ],
         "hotels": [
-          "The Westin Sydney",
-          "InterContinental",
-          "Harbour Marriott Hotel at Circular Quay",
-          "Amora Hotel Jamison",
-          "The Grace Hotel"
+          "<a href=' https://www.marriott.com/hotels/travel/sydwi-the-westin-sydney/?scid=bb1a189a-fec3-4d19-a255-54ba596febe2 ' target='_blank'>The Westin Sydney</a>",
+          "<a href=' https://www.ihg.com/intercontinental/hotels/gb/en/sydney/sydha/hoteldetail ' target='_blank'>InterContinental</a>",
+          "<a href=' https://www.marriott.com/hotels/travel/sydmc-sydney-harbour-marriott-hotel-at-circular-quay/?scid=bb1a189a-fec3-4d19-a255-54ba596febe2 ' target='_blank'>Harbour Marriott Hotel at Circular Quay</a>",
+          "<a href=' https://www.amorahotels.com/hotels/amora-hotel-jamison-sydney?utm_source=google-local&utm_medium=organic ' target='_blank'>Amora Hotel Jamison</a>",
+          "<a href=' https://gracehotel.com.au/ ' target='_blank'>The Grace Hotel</a>"
         ],
         "restaurants": [
-          "Tetsuya's",
-          "Bennelong Restaurant and Bar",
-          "est.",
-          "Fortune Village Chinese Restaurant",
-          "Fish at the Rocks"
+          "<a href=' https://tetsuyas.com/ ' target='_blank'>Tetsuya's</a>",
+          "<a href=' https://www.bennelong.com.au/ ' target='_blank'>Bennelong Restaurant and Bar</a>",
+          "<a href=' https://merivale.com/venues/est/?utm_source=googlemybusiness_venue&utm_medium=referral&utm_campaign=googlemybusiness_venue_referral_est&utm_content=website' target='_blank'>est.</a>",
+          "<a href=' https://www.fortunevillage.com.au/ ' target='_blank'>Fortune Village Chinese Restaurant</a>",
+          "<a href=' http://www.fishattherocks.com.au/ ' target='_blank'>Fish at the Rocks</a>"
         ]
       },
       {
@@ -1236,33 +1259,33 @@
           -45.050422,
           168.720692
         ],
-         "zoom": 6,
+        "zoom": 6,
         "cityDetails": {
-        "picture": "images/City/A and NZ/Queenstown.jpg",
-        "cityName": "Queenstown",
-        "country": "New Zealand",
-        "population": "28,224"
+          "picture": "images/City/A and NZ/Queenstown.jpg",
+          "cityName": "Queenstown",
+          "country": "New Zealand",
+          "population": "28,224"
         },
         "attractions": [
-          "Nomad Safaris",
-          "Skyline Queenstown",
-          "KJet Queenstown",
-          "Fear Factory Queenstown",
-          "Tiki Trail"
+          "<a href=' https://www.nomadsafaris.co.nz/ ' target='_blank'>Nomad Safaris</a>",
+          "<a href=' https://www.skyline.co.nz/en/queenstown/ ' target='_blank'>Skyline Queenstown</a>",
+          "<a href=' https://www.kjet.co.nz/ ' target='_blank'>KJet Queenstown</a>",
+          "<a href=' https://fearfactory.co.nz/ ' target='_blank'>Fear Factory Queenstown</a>",
+          "<a href=' https://www.rankers.co.nz/experiences/6341-Tiki_Trail_Queenstown ' target='_blank'>Tiki Trail</a>"
         ],
         "hotels": [
-          "Novotel Queenstown Lakeside",
-          "Crowne Plaza",
-          "Mercure Queenstown Resort",
-          "Heritage Queenstown",
-          "Sofitel Queenstown and Spa"
+          "<a href=' https://www.accorhotels.com/gb/hotel-5308-novotel-queenstown-lakeside/index.shtml ' target='_blank'>Novotel Queenstown Lakeside</a>",
+          "<a href=' https://www.ihg.com/crowneplaza/hotels/us/en/queenstown/zqnbs/hoteldetail?cm_mmc=GoogleMaps-_-CP-_-NZ-_-ZQNBS ' target='_blank'>Crowne Plaza</a>",
+          "<a href=' https://www.accorhotels.com/gb/hotel-1994-mercure-queenstown-resort/index.shtml ' target='_blank'>Mercure Queenstown Resort</a>",
+          "<a href=' https://www.heritagehotels.co.nz/heritage-queenstown ' target='_blank'>Heritage Queenstown</a>",
+          "<a href=' https://www.sofitel-queenstown.com/ ' target='_blank'>Sofitel Queenstown and Spa</a>"
         ],
         "restaurants": [
-          "Vknow Restaurant & Wine Bar",
-          "The Bunker Restaurant & Bar",
-          "Botswana Butchery",
-          "Rata",
-          "Joe's Garage"
+          "<a href=' https://www.vknow.co.nz/ ' target='_blank'>Vknow Restaurant & Wine Bar</a>",
+          "<a href=' http://www.thebunker.co.nz/ ' target='_blank'>The Bunker Restaurant & Bar</a>",
+          "<a href=' https://www.botswanabutchery.co.nz/ ' target='_blank'>Botswana Butchery</a>",
+          "<a href=' https://www.ratadining.co.nz/ ' target='_blank'>Rata</a>",
+          "<a href=' https://www.joes.co.nz/restaurants/queenstown/ ' target='_blank'>Joe's Garage</a>"
         ]
       },
       {
@@ -1272,33 +1295,33 @@
           -36.870763,
           174.697222
         ],
-         "zoom": 6,
+        "zoom": 6,
         "cityDetails": {
-        "picture": "images/City/A and NZ/Auckland.jpg",
-        "cityName": "Auckland",
-        "country": "New Zealand",
-        "population": "1.614 millions"
+          "picture": "images/City/A and NZ/Auckland.jpg",
+          "cityName": "Auckland",
+          "country": "New Zealand",
+          "population": "1.614 millions"
         },
         "attractions": [
-          "Auckland Zoo",
-          "Butterfly Creek",
-          "AJ Hackett SkyWalk & SkyJump",
-          "Kelly Tarlton's Sea Life Aquarium",
-          "Sky Tower"
+          "<a href=' https://www.aucklandzoo.co.nz/ ' target='_blank'>Auckland Zoo</a>",
+          "<a href=' https://www.butterflycreek.co.nz/ ' target='_blank'>Butterfly Creek</a>",
+          "<a href=' https://www.bungy.co.nz/auckland/ ' target='_blank'>AJ Hackett SkyWalk & SkyJump</a>",
+          "<a href=' https://www.kellytarltons.co.nz/?utm_source=gmb&utm_medium=organic&utm_campaign=yext&utm_content=2 ' target='_blank'>Kelly Tarlton's Sea Life Aquarium</a>",
+          "<a href=' https://www.skycityauckland.co.nz/sky-tower/ ' target='_blank'>Sky Tower</a>"
         ],
         "hotels": [
-          "Cordis, Auckland",
-          "SKYCITY Grand Hotel",
-          "Sofitel Auckland Viaduct Harbour",
-          "Rydges Auckland",
-          "Pullman Auckland"
+          "<a href=' http://www.cordishotels.com/en/auckland/?htl=cdakl&src=plist&eng=yext&size=na&cid=yext_profile ' target='_blank'>Cordis, Auckland</a>",
+          "<a href=' https://www.skycityauckland.co.nz/hotels/skycity-grand/ ' target='_blank'>SKYCITY Grand Hotel</a>",
+          "<a href=' https://www.sofitel-auckland.com/ ' target='_blank'>Sofitel Auckland Viaduct Harbour</a>",
+          "<a href=' https://www.rydges.com/accommodation/new-zealand/auckland/ ' target='_blank'>Rydges Auckland</a>",
+          "<a href=' https://www.accorhotels.com/gb/hotel-8219-pullman-auckland/index.shtml ' target='_blank'>Pullman Auckland</a>"
         ],
         "restaurants": [
-          "Federal Delicatessen",
-          "The Grove Restaurant",
-          "Depot",
-          "Sid at The French Cafe",
-          "Cassia"
+          "<a href=' http://www.thefed.co.nz/ ' target='_blank'>Federal Delicatessen</a>",
+          "<a href=' https://www.thegroverestaurant.co.nz/ ' target='_blank'>The Grove Restaurant</a>",
+          "<a href=' http://www.eatatdepot.co.nz/ ' target='_blank'>Depot</a>",
+          "<a href=' https://www.sidatthefrenchcafe.co.nz/ ' target='_blank'>Sid at The French Cafe</a>",
+          "<a href=' https://www.cassiarestaurant.co.nz/ ' target='_blank'>Cassia</a>"
         ]
       },
       {
@@ -1308,33 +1331,33 @@
           -17.757309,
           177.445846
         ],
-         "zoom": 6,
+        "zoom": 6,
         "cityDetails": {
-        "picture": "images/City/A and NZ/Nadi.jpg",
-        "cityName": "Nadi",
-        "country": "Fiji",
-        "population": "42,284"
+          "picture": "images/City/A and NZ/Nadi.jpg",
+          "cityName": "Nadi",
+          "country": "Fiji",
+          "population": "42,284"
         },
         "attractions": [
-          "Garden of the Sleeping Giant",
-          "Aquarius On The Beach",
-          "Zip Fiji Nadi",
-          "Sleeping Giant Zipline",
-          "Orchid Falls"
+          "<a href=' https://www.buydomains.com/lander/gsgfiji.com?domain=gsgfiji.com&utm_source=gsgfiji.com&utm_medium=click&utm_campaign=TDFS-OO-BDLander_Invisible&traffic_id=TDFS-OO-BDLander_Invisible&traffic_type=tdfs&redirect=ono-redirect#/about ' target='_blank'>Garden of the Sleeping Giant</a>",
+          "<a href=' https://www.aquariusfiji.com/ ' target='_blank'>Aquarius On The Beach</a>",
+          "<a href=' http://www.zip-fiji.com/ ' target='_blank'>Zip Fiji Nadi</a>",
+          "<a href=' https://www.ziplinefiji.com/ ' target='_blank'>Sleeping Giant Zipline</a>",
+          "<a href=' https://swimh.com/fiji-orchid.htm ' target='_blank'>Orchid Falls</a>"
         ],
         "hotels": [
-          "Aquarius On The Beach",
-          "Ramada Suites By Wyndham Wailoaloa",
-          "Hilton Fiji Beach Resort and Spa",
-          "Hibiscus Apartments Fiji",
-          "Radisson Blu Resort Fiji"
+          "<a href=' https://www.aquariusfiji.com/ ' target='_blank'>Aquarius On The Beach</a>",
+          "<a href=' https://www.wyndhamhotels.com/ramada/nadi-fiji/ramada-suites-wailoaloa-beach-fiji/overview ' target='_blank'>Ramada Suites By Wyndham Wailoaloa</a>",
+          "<a href=' https://www3.hilton.com/en/hotels/fiji/hilton-fiji-beach-resort-and-spa-NANHIHI/index.html?WT.mc_id=zELWAKN0APAC1HI2DMH3LocalSearch4DGGenericx6NANHIHI ' target='_blank'>Hilton Fiji Beach Resort and Spa</a>",
+          "<a href=' https://www.hibiscusapartmentsfiji.com/ ' target='_blank'>Hibiscus Apartments Fiji</a>",
+          "<a href=' https://www.radissonblu.com/en/resort-fiji?s_cid=os.apac-FJ-blu-FIJDEN-gmb ' target='_blank'>Radisson Blu Resort Fiji</a>"
         ],
         "restaurants": [
-          "Daikoku Restaurant",
-          "Habibi Fiji",
-          "Sentai Seafood Restaurant",
-          "Tu's Place",
-          "Cafe O Fiji"
+          "<a href=' http://www.daikokufiji.com/ ' target='_blank'>Daikoku Restaurant</a>",
+          "<a href=' https://www.facebook.com/habibifiji/ ' target='_blank'>Habibi Fiji</a>",
+          "<a href=' https://sentaifiji.com/ ' target='_blank'>Sentai Seafood Restaurant</a>",
+          "<a href=' https://tusplace.webs.com/' target='_blank'>Tu's Place</a>",
+          "<a href=' https://www.facebook.com/CafeOCateringFiji/ ' target='_blank'>Cafe O Fiji</a>"
         ]
       }
     ]
