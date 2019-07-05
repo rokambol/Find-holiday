@@ -107,13 +107,13 @@ $.getJSON('data/places.json', function (data) {
                 lat: place.location[0],
                 lng: place.location[1]
             });
-            map.setZoom(4);
+            map.setZoom(place.zoom);
             markerSet(place);
         }
         
         function renderAttractions(attractions) {
             return '<h2>Our recommendation:</h2>' +
-                '<ul><li>' + attractions.join('</li><li>') + '</li></ul>';
+                '<ul class="list-group list-group-flush"><li class="list-group">' + attractions.join('</li><li class="list-group">') + '</li></ul>';
         }
         
         function optionsRender(options, $selectElement) {

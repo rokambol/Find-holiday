@@ -82,10 +82,10 @@ a {
 }
 
 footer {
-    display: none;
+  display: none;
   position: absolute;
   bottom: 0;
-  background-color: inherit;
+  background-color: #008ae6;;
   width: 100%;
 }
 /*font-family: 'Roboto', sans-serif;

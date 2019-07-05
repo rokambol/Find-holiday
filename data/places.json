@@ -15,7 +15,7 @@
           38.907345,
           -77.033095
         ],
-        "zoom": 6,
+        "zoom": 9,
         "cityDetails": {
           "picture": "images/City/N.ACITY/Washington DC.jpg",
           "cityName": "Washington DC",
@@ -51,7 +51,7 @@
           40.773882,
           -74.019295
         ],
-        "zoom": 6,
+        "zoom": 9,
         "cityDetails": {
           "picture": "images/City/N.ACITY/New_York.jpg",
           "cityName": "New York",
@@ -87,7 +87,7 @@
           43.697069,
           -79.383891
         ],
-        "zoom": 6,
+        "zoom": 9,
         "cityDetails": {
           "picture": "images/City/N.ACITY/Toronto.jpg",
           "cityName": "Toronto",
@@ -123,7 +123,7 @@
           45.605755,
           -73.538326
         ],
-        "zoom": 6,
+        "zoom": 9,
         "cityDetails": {
           "picture": "images/City/N.ACITY/Monreal.jpg",
           "cityName": "Monreal",
@@ -159,7 +159,7 @@
           46.867889,
           -71.226519
         ],
-        "zoom": 6,
+        "zoom": 9,
         "cityDetails": {
           "picture": "images/City/N.ACITY/QuebecCity.jpg",
           "cityName": "Quebec City",
@@ -195,7 +195,7 @@
           49.38401,
           -123.156729
         ],
-        "zoom": 6,
+        "zoom": 9,
         "cityDetails": {
           "picture": "images/City/N.ACITY/Vancouver.jpg",
           "cityName": "Vancouver",
@@ -242,7 +242,7 @@
           -22.922876,
           -43.462457
         ],
-        "zoom": 6,
+        "zoom": 9,
         "cityDetails": {
           "picture": "images/City/S.ACit/RioDeJenairo.jpg",
           "cityName": "Rio De Jenairo",
@@ -278,14 +278,13 @@
           -34.60476,
           -58.426976
         ],
-        "zoom": 6,
+        "zoom": 9,
         "cityDetails": {
           "picture": "images/City/S.ACit/BuenosAires.jpg",
           "cityName": "Buenos Aires",
           "country": "Argentina",
           "population": "2.89 millions"
         },
-        "zoom": 12,
         "attractions": [
           "<a href='https://turismo.buenosaires.gob.ar' target='_blank'>Plaza Dorrego</a>",
           "<a href='https://jardinjapones.org.ar/' target='_blank'>Japanese Gardens</a>",
@@ -315,7 +314,7 @@
           -34.902597,
           -56.172354
         ],
-        "zoom": 6,
+        "zoom": 9,
         "cityDetails": {
           "picture": "images/City/S.ACit/Montevideo.jpg",
           "cityName": "Montevideo",
@@ -351,7 +350,7 @@
           -51.746976,
           -58.910415
         ],
-        "zoom": 6,
+        "zoom": 9,
         "cityDetails": {
           "picture": "images/City/S.ACit/F.Islands.jpg",
           "cityName": "Falkland Islands",
@@ -387,7 +386,7 @@
           -53.763299,
           -67.696776
         ],
-        "zoom": 6,
+        "zoom": 9,
         "cityDetails": {
           "picture": "images/City/S.ACit/RioGrande.jpg",
           "cityName": "Rio Grande",
@@ -423,7 +422,7 @@
           -33.439446,
           -70.667641
         ],
-        "zoom": 6,
+        "zoom": 9,
         "cityDetails": {
           "picture": "images/City/S.ACit/Santiago.jpg",
           "cityName": "Santiago",
@@ -470,7 +469,7 @@
           51.409136,
           -0.062758
         ],
-        "zoom": 6,
+        "zoom": 9,
         "cityDetails": {
           "picture": "images/City/Europa/London.jpg",
           "cityName": "London",
@@ -506,7 +505,7 @@
           48.856871,
           2.335072
         ],
-        "zoom": 6,
+        "zoom": 9,
         "cityDetails": {
           "picture": "images/City/Europa/Paris.jpg",
           "cityName": "Paris",
@@ -542,7 +541,7 @@
           55.678157,
           12.578024
         ],
-        "zoom": 6,
+        "zoom": 9,
         "cityDetails": {
           "picture": "images/City/Europa/Copenhagen.jpg",
           "cityName": "Copenhagen",
@@ -578,7 +577,7 @@
           55.754242,
           37.599643
         ],
-        "zoom": 6,
+        "zoom": 9,
         "cityDetails": {
           "picture": "images/City/Europa/Moscow.jpg",
           "cityName": "Moscow",
@@ -614,7 +613,7 @@
           41.901298,
           12.48861
         ],
-        "zoom": 6,
+        "zoom": 9,
         "cityDetails": {
           "picture": "images/City/Europa/Rome.jpg",
           "cityName": "Rome",
@@ -650,7 +649,7 @@
           37.996834,
           23.725499
         ],
-        "zoom": 6,
+        "zoom": 9,
         "cityDetails": {
           "picture": "images/City/Europa/Athens.jpg",
           "cityName": "Athens",
@@ -697,7 +696,7 @@
           33.5757,
           -7.593175
         ],
-        "zoom": 6,
+        "zoom": 9,
         "cityDetails": {
           "picture": "images/City/Africa/Casablanca.jpg",
           "cityName": "Casablanca",
@@ -733,7 +732,7 @@
           30.019941,
           31.20971
         ],
-        "zoom": 6,
+        "zoom": 9,
         "cityDetails": {
           "picture": "images/City/Africa/Cairo.jpg",
           "cityName": "Cairo",
@@ -769,7 +768,7 @@
           6.526206,
           3.374584
         ],
-        "zoom": 6,
+        "zoom": 9,
         "cityDetails": {
           "picture": "images/City/Africa/Lagos.jpg",
           "cityName": "Lagos",
@@ -805,7 +804,7 @@
           -26.199541,
           28.044828
         ],
-        "zoom": 6,
+        "zoom": 9,
         "cityDetails": {
           "picture": "images/City/Africa/Johannesburg.jpg",
           "cityName": "Johannesburg",
@@ -841,7 +840,7 @@
           -33.932501,
           18.455402
         ],
-        "zoom": 6,
+        "zoom": 9,
         "cityDetails": {
           "picture": "images/City/Africa/CapeTown.jpg",
           "cityName": "Cape Town",
@@ -877,7 +876,7 @@
           0.052616,
           32.464036
         ],
-        "zoom": 6,
+        "zoom": 9,
         "cityDetails": {
           "picture": "images/City/Africa/Entebbe.jpg",
           "cityName": "Entebbe",
@@ -924,7 +923,7 @@
           25.215561,
           55.273019
         ],
-        "zoom": 6,
+        "zoom": 9,
         "cityDetails": {
           "picture": "images/City/Asia/Dubai.jpg",
           "cityName": "Dubai",
@@ -960,7 +959,7 @@
           19.084794,
           72.883234
         ],
-        "zoom": 6,
+        "zoom": 9,
         "cityDetails": {
           "picture": "images/City/Asia/Mumbai.jpg",
           "cityName": "Mumbai",
@@ -996,7 +995,7 @@
           6.926264,
           79.861009
         ],
-        "zoom": 6,
+        "zoom": 9,
         "cityDetails": {
           "picture": "images/City/Asia/Colombo.jpg",
           "cityName": "Colombo",
@@ -1032,7 +1031,7 @@
           3.137818,
           101.689046
         ],
-        "zoom": 6,
+        "zoom": 9,
         "cityDetails": {
           "picture": "images/City/Asia/KualaLumpur.jpg",
           "cityName": "Kuala Lumpur",
@@ -1068,7 +1067,7 @@
           22.337251,
           114.183957
         ],
-        "zoom": 6,
+        "zoom": 9,
         "cityDetails": {
           "picture": "images/City/Asia/HongKong.jpg",
           "cityName": "Hong Kong",
@@ -1104,7 +1103,7 @@
           35.710376,
           139.732444
         ],
-        "zoom": 6,
+        "zoom": 9,
         "cityDetails": {
           "picture": "images/City/Asia/Tokyo.jpg",
           "cityName": "Tokyo",
@@ -1151,7 +1150,7 @@
           -32.023278,
           115.892434
         ],
-        "zoom": 6,
+        "zoom": 9,
         "cityDetails": {
           "picture": "images/City/A and NZ/PERTH.jpg",
           "cityName": "Perth",
@@ -1187,7 +1186,7 @@
           -37.817348,
           144.940379
         ],
-        "zoom": 6,
+        "zoom": 9,
         "cityDetails": {
           "picture": "images/City/A and NZ/Melbourne.jpg",
           "cityName": "Melbourne",
@@ -1223,7 +1222,7 @@
           -33.864985,
           151.185559
         ],
-        "zoom": 6,
+        "zoom": 9,
         "cityDetails": {
           "picture": "images/City/A and NZ/Sydney.jpg",
           "cityName": "Sydney",
@@ -1259,7 +1258,7 @@
           -45.050422,
           168.720692
         ],
-        "zoom": 6,
+        "zoom": 9,
         "cityDetails": {
           "picture": "images/City/A and NZ/Queenstown.jpg",
           "cityName": "Queenstown",
@@ -1295,7 +1294,7 @@
           -36.870763,
           174.697222
         ],
-        "zoom": 6,
+        "zoom": 9,
         "cityDetails": {
           "picture": "images/City/A and NZ/Auckland.jpg",
           "cityName": "Auckland",
@@ -1331,7 +1330,7 @@
           -17.757309,
           177.445846
         ],
-        "zoom": 6,
+        "zoom": 9,
         "cityDetails": {
           "picture": "images/City/A and NZ/Nadi.jpg",
           "cityName": "Nadi",
