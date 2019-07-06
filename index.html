@@ -1,89 +1,38 @@
-<!DOCTYPE html>
-<html>
-  <html lang="en" class="h-100">
+<!doctype html>
+<html lang="en">
   <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
     <meta name="description" content="">
     <meta name="author" content="Dimitar Milev">
     <meta name="generator" content="Jekyll v3.8.5">
-    <title>Find Holiday</title>
+    <title>Welcome to Find Holiday</title>
 
     <!-- Bootstrap core CSS -->
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
 
     <!-- Custom styles for this template -->
-    <link href="css/style.css" rel="stylesheet">
+    <link href="css/cover.css" rel="stylesheet">
   </head>
-  
-  <body class="d-flex flex-column h-100">
-<header>
-  <!-- Fixed navbar -->
-  <nav class="navbar navbar-expand-md navbar-dark bg-dark ">
-    <a class="navbar-brand" href="#"><h1 class="mx-auto">Welcome to Find Holiday</h1></a>
-    <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarCollapse" aria-controls="navbarCollapse" aria-expanded="false" aria-label="Toggle navigation">
-      <span class="navbar-toggler-icon"></span>
-    </button>
-    <div class="collapse navbar-collapse" id="navbarCollapse">
-      <ul class="navbar-nav mr-auto">
-      </ul>
-      <form class="form-inline mt-2 mt-md-0">
-        <input id="pac-input" class="controls" type="text" placeholder="Search">
-        <button class="btn btn-outline-success my-2 my-sm-0" type="submit">Search</button>
-      </form>
-    </div>
-  </nav>
-</header>
+  <body class="text-center">
+    <div class="cover-container d-flex w-100 h-100 p-3 mx-auto flex-column">
+  <header class="masthead mb-auto">
     
-  <div class="row">
-    <div class="col-4 col-sm-4">
-        <!--form 1 hardcoded continent option-->
-        <form>
-            <div class="form-row align-items-center">
-                <div class="col-12 my-1">
-                    <label class="mr-sm-12" for="inlineFormCustomSelect">
-                        <h2>Choose Continent</h2>
-                    </label>
-                    <select class="custom-select mr-sm-12" id="continentSelect">
-                    </select>
-                </div>
-            </div>
-            <div class="form-row align-items-center">
-                <div class="col-12 my-1">
-                    <label class="mr-sm-12" for="inlineFormCustomSelect">
-                        <h2>Choose City </h2>
-                    </label>
-                    <select class="custom-select mr-sm-12" id = "citySelect"></select>
-                </div>
-            </div>
-            <div class="form-row align-items-center">
-                <div class="col-12 my-1">
-                    <label class="mr-sm-12" for="inlineFormCustomSelect">
-                        <h2>What are looking for</h2>
-                    </label>
-                    <select class="custom-select mr-sm-12" id="placesTypeSelect">
-                        <option value="0" selected>Choose...</option>
-                        <option value="1">Attraction</option>
-                        <option value="2">TOP HOTEL</option>
-                        <option value="3">The Best restaurants</option>
-                    </select>
-                    <!--empty ordered list fill only by js function-->
-                    <ul id = 'listMenu' class="list-group pb-5 mb-10"></ul>
-                </div>
-            </div>
-        </form>
-      </div>
+  </header>
 
-    <div id="map" class="col-8"></div>
-  </div>
-  
+  <main role="main" class="inner cover">
+    <h1 class="cover-heading">Welcome to Find holiday</h1>
+    <p class="lead">Thank you to choose us for your travel around the world. Our project just want to help people with short holidays or just traveller want to know the best of cities to visit or best hotel in the city ot best attractions. Our project does not have commercial purpose so we will not disturb you with aggressive ads, or collecting email or redirect you to partners web site for commissions. We just want to share our team expirience and give you oppurtunity to book directly with supplier or just have better information for current place, so are you ready to go around the world with us?</p>
+    <p class="lead">
+      <a href="main.html" class="btn btn-lg btn-secondary">Let's Start</a>
+    </p>
+  </main>
 
-<script type="text/javascript" src="js/jquery-3.3.1.min.js"></script>
-<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js" integrity="sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q" crossorigin="anonymous"></script>
-<script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js" integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl" crossorigin="anonymous"></script>
-<script type="text/javascript" src="js/script.js"></script>
-<script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyD1FEaPbzMRGmIT3J40OAtH9obM4YZI65s&libraries=places&callback=initMap"
-    async defer></script>
-
-  </body>
+  <footer class="mastfoot mt-auto">
+    <div class="inner">
+      <p>Created by Dimitar Milev</p>
+    </div>
+  </footer>
+</div>
+</body>
 </html>
