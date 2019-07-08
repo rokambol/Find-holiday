@@ -43,7 +43,7 @@ var locations = [
 ];
 
 
-
+//core google map api code
  var map;
       function initMap() {
         map = new google.maps.Map(document.getElementById('map'), {
@@ -52,10 +52,11 @@ var locations = [
         });
       }
 
+//fetch json data
 $.getJSON('data/places.json', function (data) {
     console.log(data);
     
-    // JQuery function help code below to execute after page is loaded 
+// JQuery function help code below to execute after page is loaded 
     $(document).ready(function() {
         var citySelect =  $('#citySelect');
         var listMenu = $('#listMenu');
@@ -63,6 +64,8 @@ $.getJSON('data/places.json', function (data) {
         var continentSelect = $('#continentSelect');
         var selectedCity = null;
         var selectedContinent = null;
+        
+//core manual js code
         
         function renderCityInfo(cityDetails) {
             return `
@@ -77,6 +80,7 @@ $.getJSON('data/places.json', function (data) {
             `;
         }
         
+//change map center with json coordinate
         function markerSet(place) {
             var marker = new google.maps.Marker({
                 position: {lat: place.location[0], lng: place.location[1]},
@@ -116,6 +120,7 @@ $.getJSON('data/places.json', function (data) {
                 '<ul class="list-group list-group-flush"><li class="list-group">' + attractions.join('</li><li class="list-group">') + '</li></ul>';
         }
         
+//render option on dropdowns menu
         function optionsRender(options, $selectElement) {
             $selectElement.append(
                 $('<option></option>')
@@ -195,16 +200,12 @@ $.getJSON('data/places.json', function (data) {
     });
 });
 
-//$('li').on('click', 'li', function() {
-    //var copyText = $('#p1' || '#p2').clone();
-    //$('#pic-input').innerHTML = copyText 
-//});
-
 
 //script help make search box functional
 $('#pac-input').on('click', function(){
 
         // Create the search box and link it to the UI element.
+        //basic google map api places for search bar
         var input = document.getElementById('pac-input');
         var searchBox = new google.maps.places.SearchBox(input);
        // map.controls[google.maps.ControlPosition.TOP_LEFT].push(input);
