@@ -62,7 +62,7 @@ Other technologies used in this project are:
 
 No custom automated testing has been done on this project.
 
-All custom js file are checked through [https://jshint.com/](https://jshint.com/) with error found.
+All custom js file are checked through [https://jshint.com/](https://jshint.com/) with no error found only 5 warnings about biuld js function only available on ES6.
 
 All html and css are checked through [https://validator.w3.org](https://validator.w3.org/#validate_by_uri) with no major mistake found.
 
